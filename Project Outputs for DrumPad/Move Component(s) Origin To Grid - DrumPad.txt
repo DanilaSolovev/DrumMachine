@@ -1,0 +1,59 @@
+Move Component(s) Origin to Grid
+Filename     : C:\git\geoser\DrumPad\DrumPad.PcbDoc
+Date         : 09.11.2023
+Time         : 12:59:41
+Time Elapsed : 00:00:00
+
+
+    Component ZQ1-NX3225SA-16.000M-STD-CRS-2 (262.499mm,43.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT SIP Component XS?-5009010801 (398.499mm,39.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component XS1-PBS1.27-5 (539.499mm,41.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (290mm,127mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (323mm,87mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (371mm,87mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (322mm,106mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (258mm,106mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (307mm,87mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (291mm,67mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (338mm,127mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (291mm,87mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (275mm,67mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (339mm,87mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (338mm,106mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (355mm,87mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (339mm,67mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (274mm,106mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (274mm,127mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (275mm,87mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (322mm,127mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (369mm,106mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (307mm,67mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (258mm,127mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (370mm,127mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (354mm,106mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (354mm,127mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (306mm,127mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (259mm,87mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (290mm,106mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (371mm,67mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (306mm,106mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (259mm,67mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (355mm,67mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component SB?-Led_button (323mm,67mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component L2-BLM18AG102SN1 (249mm,44mm) on Top Layer - Component pads are OFF grid. No action taken.
+    LCC Component DD?-STM32F407VET6 (453mm,87mm) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C51-CC0603KRX5R5BB475 (244mm,44mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C48-CC0603KRX7R9BB104 (237.5mm,43.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C48-CC0603KRX7R9BB104 (226mm,43.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C46-CC0603KRX7R9BB104 (220mm,43.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C46-CC0603KRX7R9BB104 (231.5mm,43.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C45-CC0603KRX7R9BB104 (214mm,43.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C44-GRM188R61E225KA12 (186mm,43.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C41-CC0603KRX7R9BB104 (209.5mm,44mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C38-GRM188R61E225KA12 (180mm,43.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C37-CC0603KRX7R9BB104 (203mm,43.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C31-GRM188R61C105KA93 (198mm,44mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C27-CC0603KRX7R9BB104 (192mm,43.5mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C3-GRM1885C1H100JA01 (253.499mm,44mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C1-GRM1885C1H100JA01 (257.999mm,44mm) on Top Layer - Component pads are OFF grid. No action taken.
+count : 51

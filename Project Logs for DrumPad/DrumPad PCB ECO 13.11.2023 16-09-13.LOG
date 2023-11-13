@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=3V3 Pin=DD?-6
+Removed Pin From Net: NetName=3V3 Pin=DD?-11
+Removed Pin From Net: NetName=3V3 Pin=DD?-28
+Removed Pin From Net: NetName=3V3 Pin=DD?-50
+Removed Pin From Net: NetName=3V3 Pin=DD?-75
+Removed Pin From Net: NetName=3V3 Pin=DD?-100
+Added Component: Designator=C29(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(SOT-23-5)
+Add component (AddParameter): Name = "Battery type"; Value = "Li-Ion/Li-Poly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input voltage"; Value = "3,7 ... 7 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "maxim integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of cells"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output current"; Value = "DC280/USB90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-40 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Контроллер АКБ"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(VQFN-14)
+Add component (AddParameter): Name = "Input voltage"; Value = "2,3 ... 5,5 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output voltage"; Value = "3,3 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-40 ... 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Импульсный преобразователь напряжения с гальванической развязкой"; VariantName = "[No Variations]"
+Added Component: Designator=XP?(B2B-PH-K-S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Вилка на плату"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=GND Pin=XS?-0
+Added Pin To Net: NetName=GND Pin=XS?-0
+Added Pin To Net: NetName=GND Pin=XS?-0
+Added Pin To Net: NetName=GND Pin=XS?-0
+Added Pin To Net: NetName=3V3 Pin=XS?-4
+Added Pin To Net: NetName=GND Pin=XS?-6
+Added Pin To Net: NetName=NetDD?_6 Pin=DD?-6
+Added Pin To Net: NetName=NetDD?_6 Pin=DD?-11
+Added Pin To Net: NetName=NetDD?_6 Pin=DD?-28
+Added Pin To Net: NetName=NetDD?_6 Pin=DD?-50
+Added Pin To Net: NetName=NetDD?_6 Pin=DD?-75
+Added Pin To Net: NetName=NetDD?_6 Pin=DD?-100
+Added Net: Name=NetDD?_6
+Added Pin To Net: NetName=SDIO_CLK Pin=XS?-5
+Added Net: Name=SDIO_CLK
+Added Pin To Net: NetName=SDIO_CMD Pin=XS?-3
+Added Net: Name=SDIO_CMD
+Added Pin To Net: NetName=SDIO_D0 Pin=XS?-7
+Added Net: Name=SDIO_D0
+Added Pin To Net: NetName=SDIO_D1 Pin=XS?-8
+Added Net: Name=SDIO_D1
+Added Pin To Net: NetName=SDIO_D2 Pin=XS?-1
+Added Net: Name=SDIO_D2
+Added Pin To Net: NetName=SDIO_D3 Pin=XS?-2
+Added Net: Name=SDIO_D3
+Added Member To Class: ClassName=DrumPad Member=Component C29 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C46 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C48 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component DA? MAX1555EZK
+Added Member To Class: ClassName=DrumPad Member=Component DA? TPS630250
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component XP? B2B-PH-K-S
+Added Room: Name=DrumPad

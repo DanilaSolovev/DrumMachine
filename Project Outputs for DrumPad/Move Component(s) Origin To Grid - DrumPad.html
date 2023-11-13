@@ -1,0 +1,356 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 { 
+			font-family : segoe ui;
+			color : black;
+			background-color : #EDE7D9;
+			padding: 0.3em;
+		}
+
+		h1 {
+			font-size: 1.2em;
+		}		
+
+		h2 {
+			font-size: 1.2em;
+		}
+
+		body { 
+			font-family : segoe ui;
+		}
+
+		td, th {  
+			padding: 0.5em;
+			text-align : left;
+		}
+		th { 
+			background-color : #EEEEEE;
+		
+		}
+		th.column1, td.column1 { 
+			width : 50%; 
+		}
+
+        th.column2, td.column2 {
+            width : 25%;
+        }
+
+		table { 
+			width : 100%; 
+            font-size: 0.9em;
+		}
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+		{
+			left : 0;
+			top : 0;
+			padding: 0em;
+			padding-top : 0.1em;
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.front_matter_column1 {
+			width : 5em;
+			font-weight: bold;
+		}
+
+		.front_matter_column2 {
+			width: 0.1em;
+		}
+
+		.front_matter_column3 {
+			width : auto;
+		}
+
+		.total_column1, .total_column {
+			font-weight : bold;
+		}
+		.total_column1 {
+			text-align : left;
+		}
+		.warning, .error { 
+			color : red;
+			font-weight : bold;
+		}	
+		tr.onmouseout_odd { 
+			background-color : #white;
+		}
+		tr.onmouseout_even { 
+			background-color : #FAFAFA;
+		}
+		tr.onmouseover_odd, tr.onmouseover_even { 
+			background-color : #EEEEEE;
+		} 
+		a:link, a:visited, .q a:link,.q a:active,.q {
+			color: #21489e; 
+		}
+		a:link.callback, a:visited.callback { 
+			color: #21489e;
+		}
+		a:link.customize, a:visited.customize {
+			color: #C0C0C0;
+			position: absolute; 
+			right: 10px;
+		}	
+		p.contents_level1 {
+			font-weight : bold;
+			font-size : 110%;
+			margin : 0.5em;
+		}
+		p.contents_level2 {
+			position : relative;
+			left : 20px;
+			margin : 0.5em;
+		}
+	</style><script type="text/javascript">
+		function coordToMils(coord) {
+			var number = coord / 10000;
+			
+			if (number != number.toFixed(3))
+				number = number.toFixed(3);
+			
+			return number + 'mil'
+		}
+
+		function coordToMM(coord) {
+			var number = 0.0254 * coord / 10000;
+			
+			if (number != number.toFixed(4))
+				number = number.toFixed(4);
+			
+			return number + 'mm'
+		}
+	
+		function convertCoord(coordNode, units) {
+			for (var i = 0; i < coordNode.childNodes.length; i++) {
+				coordNode.removeChild(coordNode.childNodes[i]);		
+			}
+
+			var coord = coordNode.getAttribute('value');
+			if (coord != null) {
+				if (units == 'mm') {	
+					textNode = document.createTextNode(coordToMM(coord));
+					coordNode.appendChild(textNode);
+				} else if (units == 'mil') {
+					textNode = document.createTextNode(coordToMils(coord));		
+					coordNode.appendChild(textNode);	
+				}
+			}
+		}
+	
+		function convertUnits(unitNode, units) {
+			for (var i = 0; i < unitNode.childNodes.length; i++) {
+				unitNode.removeChild(unitNode.childNodes[i]);		
+			}
+		
+			textNode = document.createTextNode(units); 
+			unitNode.appendChild(textNode);
+		}
+	
+		function changeUnits(radio_input, units) {
+			if (radio_input.checked) {
+			
+				var elements = document.getElementsByName('coordinate');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertCoord(elements[i], units);
+					}
+				}
+	
+				var elements = document.getElementsByName('units');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertUnits(elements[i], units);
+					}
+				}
+			}
+		}	
+	</script><title>Move Component(s) Origin to Grid</title>
+</head>
+<body onload=""><img ALT="Altium" src="
+			file://C:\Users\Public\Documents\Altium\AD20\Templates\AD_logo.png
+		"><a href="dxpprocess://Client:SetupPreferences?Server=PCB|PageName=Reports" class="customize"><acronym title="dxpprocess://Client:SetupPreferences?Server=PCB|PageName=Reports">customize</acronym></a><h1>Move Component(s) Origin to Grid</h1>
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">09.11.2023</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">12:59:41</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Elapsed Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">00:00:00</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3"><a href="file:///C:\git\geoser\DrumPad\DrumPad.PcbDoc" class="file"><acronym title="C:\git\geoser\DrumPad\DrumPad.PcbDoc">C:\git\geoser\DrumPad\DrumPad.PcbDoc</acronym></a></td>
+</tr>
+</table><a name="IDIPR0TSTMLHPUCJ3KFCCEHMBBKGZPVER2FVWMR3HKGUEYONUTHAZJ"><h2>Components Origin</h2></a><a name="IDKDVJBX4CZPW0D0ASQDYAY2UXJP3ME4HDTK5STAKJXVH5EYF44R0I"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="warning"></th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10259.759mil|Location2.X=10420.08mil|Location1.Y=1653.477mil|Location2.Y=1872.076mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10259.759mil|Location2.X=10420.08mil|Location1.Y=1653.477mil|Location2.Y=1872.076mil|Absolute=True">Component ZQ1-NX3225SA-16.000M-STD-CRS-2 (262.499mm,43.5mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=15511.445mil|Location2.X=16118.142mil|Location1.Y=1179.131mil|Location2.Y=1865.596mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=15511.445mil|Location2.X=16118.142mil|Location1.Y=1179.131mil|Location2.Y=1865.596mil|Absolute=True">SMT SIP Component XS?-5009010801 (398.499mm,39.5mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=21196.615mil|Location2.X=21356.57mil|Location1.Y=1494.091mil|Location2.Y=1873.336mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=21196.615mil|Location2.X=21356.57mil|Location1.Y=1494.091mil|Location2.Y=1873.336mil|Absolute=True">SIP Component XS1-PBS1.27-5 (539.499mm,41.5mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11127.823mil|Location2.X=11706.756mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11127.823mil|Location2.X=11706.756mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True">Component SB?-Led_button (290mm,127mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12427.035mil|Location2.X=13005.969mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12427.035mil|Location2.X=13005.969mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True">Component SB?-Led_button (323mm,87mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14316.799mil|Location2.X=14895.732mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14316.799mil|Location2.X=14895.732mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True">Component SB?-Led_button (371mm,87mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12387.665mil|Location2.X=12966.599mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12387.665mil|Location2.X=12966.599mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True">Component SB?-Led_button (322mm,106mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9867.98mil|Location2.X=10446.913mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9867.98mil|Location2.X=10446.913mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True">Component SB?-Led_button (258mm,106mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11797.114mil|Location2.X=12376.047mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11797.114mil|Location2.X=12376.047mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True">Component SB?-Led_button (307mm,87mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11167.193mil|Location2.X=11746.126mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11167.193mil|Location2.X=11746.126mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True">Component SB?-Led_button (291mm,67mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13017.587mil|Location2.X=13596.52mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13017.587mil|Location2.X=13596.52mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True">Component SB?-Led_button (338mm,127mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11167.193mil|Location2.X=11746.126mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11167.193mil|Location2.X=11746.126mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True">Component SB?-Led_button (291mm,87mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10537.272mil|Location2.X=11116.205mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10537.272mil|Location2.X=11116.205mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True">Component SB?-Led_button (275mm,67mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13056.957mil|Location2.X=13635.89mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13056.957mil|Location2.X=13635.89mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True">Component SB?-Led_button (339mm,87mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13017.587mil|Location2.X=13596.52mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13017.587mil|Location2.X=13596.52mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True">Component SB?-Led_button (338mm,106mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13686.878mil|Location2.X=14265.811mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13686.878mil|Location2.X=14265.811mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True">Component SB?-Led_button (355mm,87mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13056.957mil|Location2.X=13635.89mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13056.957mil|Location2.X=13635.89mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True">Component SB?-Led_button (339mm,67mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10497.902mil|Location2.X=11076.835mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10497.902mil|Location2.X=11076.835mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True">Component SB?-Led_button (274mm,106mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10497.902mil|Location2.X=11076.835mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10497.902mil|Location2.X=11076.835mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True">Component SB?-Led_button (274mm,127mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10537.272mil|Location2.X=11116.205mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10537.272mil|Location2.X=11116.205mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True">Component SB?-Led_button (275mm,87mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12387.665mil|Location2.X=12966.599mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12387.665mil|Location2.X=12966.599mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True">Component SB?-Led_button (322mm,127mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14238.059mil|Location2.X=14816.992mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14238.059mil|Location2.X=14816.992mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True">Component SB?-Led_button (369mm,106mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11797.114mil|Location2.X=12376.047mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11797.114mil|Location2.X=12376.047mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True">Component SB?-Led_button (307mm,67mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9867.98mil|Location2.X=10446.913mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9867.98mil|Location2.X=10446.913mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True">Component SB?-Led_button (258mm,127mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14277.429mil|Location2.X=14856.362mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14277.429mil|Location2.X=14856.362mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True">Component SB?-Led_button (370mm,127mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13647.508mil|Location2.X=14226.441mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13647.508mil|Location2.X=14226.441mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True">Component SB?-Led_button (354mm,106mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13647.508mil|Location2.X=14226.441mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13647.508mil|Location2.X=14226.441mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True">Component SB?-Led_button (354mm,127mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11757.744mil|Location2.X=12336.677mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11757.744mil|Location2.X=12336.677mil|Location1.Y=4685.045mil|Location2.Y=5414.481mil|Absolute=True">Component SB?-Led_button (306mm,127mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9907.35mil|Location2.X=10486.283mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9907.35mil|Location2.X=10486.283mil|Location1.Y=3110.242mil|Location2.Y=3839.677mil|Absolute=True">Component SB?-Led_button (259mm,87mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11127.823mil|Location2.X=11706.756mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11127.823mil|Location2.X=11706.756mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True">Component SB?-Led_button (290mm,106mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14316.799mil|Location2.X=14895.732mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14316.799mil|Location2.X=14895.732mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True">Component SB?-Led_button (371mm,67mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11757.744mil|Location2.X=12336.677mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11757.744mil|Location2.X=12336.677mil|Location1.Y=3858.273mil|Location2.Y=4587.709mil|Absolute=True">Component SB?-Led_button (306mm,106mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9907.35mil|Location2.X=10486.283mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9907.35mil|Location2.X=10486.283mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True">Component SB?-Led_button (259mm,67mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13686.878mil|Location2.X=14265.811mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13686.878mil|Location2.X=14265.811mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True">Component SB?-Led_button (355mm,67mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12427.035mil|Location2.X=13005.969mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12427.035mil|Location2.X=13005.969mil|Location1.Y=2322.84mil|Location2.Y=3052.276mil|Absolute=True">Component SB?-Led_button (323mm,67mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9751.63mil|Location2.X=9871.598mil|Location1.Y=1697.831mil|Location2.Y=1866.761mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9751.63mil|Location2.X=9871.598mil|Location1.Y=1697.831mil|Location2.Y=1866.761mil|Absolute=True">SMT Small Component L2-BLM18AG102SN1 (249mm,44mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=17503.937mil|Location2.X=18165.354mil|Location1.Y=3094.488mil|Location2.Y=3855.677mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=17503.937mil|Location2.X=18165.354mil|Location1.Y=3094.488mil|Location2.Y=3855.677mil|Absolute=True">LCC Component DD?-STM32F407VET6 (453mm,87mm) on Top Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9554.78mil|Location2.X=9714.735mil|Location1.Y=1697.831mil|Location2.Y=1866.761mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9554.78mil|Location2.X=9714.735mil|Location1.Y=1697.831mil|Location2.Y=1866.761mil|Absolute=True">SMT Small Component C51-CC0603KRX5R5BB475 (244mm,44mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9315.875mil|Location2.X=9495.823mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9315.875mil|Location2.X=9495.823mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True">SMT Small Component C48-CC0603KRX7R9BB104 (237.5mm,43.5mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8863.12mil|Location2.X=9043.068mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8863.12mil|Location2.X=9043.068mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True">SMT Small Component C48-CC0603KRX7R9BB104 (226mm,43.5mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8626.9mil|Location2.X=8806.848mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8626.9mil|Location2.X=8806.848mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True">SMT Small Component C46-CC0603KRX7R9BB104 (220mm,43.5mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9079.655mil|Location2.X=9259.603mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9079.655mil|Location2.X=9259.603mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True">SMT Small Component C46-CC0603KRX7R9BB104 (231.5mm,43.5mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8390.68mil|Location2.X=8570.628mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8390.68mil|Location2.X=8570.628mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True">SMT Small Component C45-CC0603KRX7R9BB104 (214mm,43.5mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7288.32mil|Location2.X=7468.268mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7288.32mil|Location2.X=7468.268mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True">SMT Small Component C44-GRM188R61E225KA12 (186mm,43.5mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8196.515mil|Location2.X=8356.47mil|Location1.Y=1697.831mil|Location2.Y=1866.761mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8196.515mil|Location2.X=8356.47mil|Location1.Y=1697.831mil|Location2.Y=1866.761mil|Absolute=True">SMT Small Component C41-CC0603KRX7R9BB104 (209.5mm,44mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7052.1mil|Location2.X=7232.048mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7052.1mil|Location2.X=7232.048mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True">SMT Small Component C38-GRM188R61E225KA12 (180mm,43.5mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7957.61mil|Location2.X=8137.558mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7957.61mil|Location2.X=8137.558mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True">SMT Small Component C37-CC0603KRX7R9BB104 (203mm,43.5mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7743.76mil|Location2.X=7903.715mil|Location1.Y=1697.831mil|Location2.Y=1866.761mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7743.76mil|Location2.X=7903.715mil|Location1.Y=1697.831mil|Location2.Y=1866.761mil|Absolute=True">SMT Small Component C31-GRM188R61C105KA93 (198mm,44mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7524.54mil|Location2.X=7704.488mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7524.54mil|Location2.X=7704.488mil|Location1.Y=1661.414mil|Location2.Y=1864.076mil|Absolute=True">SMT Small Component C27-CC0603KRX7R9BB104 (192mm,43.5mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9920.795mil|Location2.X=10040.763mil|Location1.Y=1696.847mil|Location2.Y=1867.761mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9920.795mil|Location2.X=10040.763mil|Location1.Y=1696.847mil|Location2.Y=1867.761mil|Absolute=True">SMT Small Component C3-GRM1885C1H100JA01 (253.499mm,44mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10097.96mil|Location2.X=10216.515mil|Location1.Y=1696.847mil|Location2.Y=1867.761mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\git\geoser\DrumPad\DrumPad.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10097.96mil|Location2.X=10216.515mil|Location1.Y=1696.847mil|Location2.Y=1867.761mil|Absolute=True">SMT Small Component C1-GRM1885C1H100JA01 (257.999mm,44mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br></body>
+</html>

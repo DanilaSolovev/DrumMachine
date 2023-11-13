@@ -1,0 +1,493 @@
+Added Component: Designator=C1(C_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±30 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0,05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±30 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0,05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=C27(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C31(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "16 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1,0 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C38(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2,2 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C41(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C44(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2,2 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C45(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C46(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C46(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C48(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C48(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C51(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "6,3 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7 мк"; VariantName = "[No Variations]"
+Added Component: Designator=DD?(LQFP-100)
+Add component (AddParameter): Name = "ADC"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ADC channels"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ADC resolution"; Value = "12 бит"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Camera interface"; Value = "Нет"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CAN"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CPU frequency"; Value = "168 МГц"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cryptography"; Value = "Есть"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DAC"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DAC resolution"; Value = "12 бит"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DMA"; Value = "Есть"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DSP"; Value = "Есть"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ethernet"; Value = "Нет"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flash"; Value = "1024 кбайт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FPU"; Value = "Есть"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FSMC"; Value = "Есть"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I2C"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPU"; Value = "Есть"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Processor architecture"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Random number generator"; Value = "Есть"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RTC"; Value = "Есть"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SDIO"; Value = "Есть"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPI/I2S"; Value = "3/2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SRAM"; Value = "192+4 кбайт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply voltage"; Value = "1,8 ... 3,6 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-40 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Timers"; Value = "10+2+2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Микроконтроллер"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USART/UART"; Value = "4/2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB OTG FS"; Value = "Есть"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB OTG HS"; Value = "Есть"; VariantName = "[No Variations]"
+Added Component: Designator=L2(FB_0603_Auto_mount)
+Add component (AddParameter): Name = "DC resistance"; Value = "500 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "400 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ферритовая бусина"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000 Ом (100 МГц)"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Led_button)
+Add component (AddParameter): Name = "Junction resistance"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life cycles"; Value = "100000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated current"; Value = "50 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Выключатель кнопочный с самовозвратом"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(PBS1.27-5)
+Add component (AddParameter): Name = "Connector type"; Value = "Розетка на плату"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "SWD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NONAME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Разъем штыревой"; VariantName = "[No Variations]"
+Added Component: Designator=XS?(MOLEX 5009010801)
+Add component (AddParameter): Name = "Connector type"; Value = "Разъем MicroSD на плату"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Разъем"; VariantName = "[No Variations]"
+Added Component: Designator=ZQ1(NX3225SA)
+Add component (AddParameter): Name = "Frequency stability"; Value = "±15 ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load capacitance"; Value = "8 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-40 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Кварцевый резонатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16 МГц"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C37-1
+Added Pin To Net: NetName=3V3 Pin=C41-1
+Added Pin To Net: NetName=3V3 Pin=C45-1
+Added Pin To Net: NetName=3V3 Pin=C46-1
+Added Pin To Net: NetName=3V3 Pin=C46-1
+Added Pin To Net: NetName=3V3 Pin=C48-1
+Added Pin To Net: NetName=3V3 Pin=C48-1
+Added Pin To Net: NetName=3V3 Pin=C51-1
+Added Pin To Net: NetName=3V3 Pin=DD?-6
+Added Pin To Net: NetName=3V3 Pin=DD?-11
+Added Pin To Net: NetName=3V3 Pin=DD?-19
+Added Pin To Net: NetName=3V3 Pin=DD?-28
+Added Pin To Net: NetName=3V3 Pin=DD?-50
+Added Pin To Net: NetName=3V3 Pin=DD?-75
+Added Pin To Net: NetName=3V3 Pin=DD?-100
+Added Pin To Net: NetName=3V3 Pin=L2-2
+Added Pin To Net: NetName=3V3 Pin=XS1-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=GND Pin=DD?-10
+Added Pin To Net: NetName=GND Pin=DD?-20
+Added Pin To Net: NetName=GND Pin=DD?-27
+Added Pin To Net: NetName=GND Pin=DD?-74
+Added Pin To Net: NetName=GND Pin=DD?-94
+Added Pin To Net: NetName=GND Pin=DD?-99
+Added Pin To Net: NetName=GND Pin=XS1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_1 Pin=C31-1
+Added Pin To Net: NetName=NetC27_1 Pin=DD?-22
+Added Pin To Net: NetName=NetC27_1 Pin=L2-1
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=NetC38_1 Pin=DD?-73
+Added Net: Name=NetC38_1
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=NetC44_1 Pin=DD?-49
+Added Net: Name=NetC44_1
+Added Pin To Net: NetName=nRST Pin=DD?-14
+Added Pin To Net: NetName=nRST Pin=XS1-5
+Added Net: Name=nRST
+Added Pin To Net: NetName=OSC_IN Pin=C3-1
+Added Pin To Net: NetName=OSC_IN Pin=DD?-12
+Added Pin To Net: NetName=OSC_IN Pin=ZQ1-3
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=C1-1
+Added Pin To Net: NetName=OSC_OUT Pin=DD?-13
+Added Pin To Net: NetName=OSC_OUT Pin=ZQ1-1
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=SWCLK Pin=DD?-76
+Added Pin To Net: NetName=SWCLK Pin=XS1-1
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=DD?-72
+Added Pin To Net: NetName=SWDIO Pin=XS1-4
+Added Net: Name=SWDIO
+Added Class: Name=DrumPad
+Added Room: Name=DrumPad
