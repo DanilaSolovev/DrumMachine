@@ -1,0 +1,218 @@
+Added Component: Designator=BR?(PEC12R4220FS0024)
+Add component (AddParameter): Name = "Manufacturer"; Value = "/Укажите компанию-производителя/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num of detends"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num of pulses"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Энкодер инкрементальный"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,01 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,01 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C_0603_Auto_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,01 мк"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R_0402_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,0625 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R_0402_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,0625 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R_0402_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,0625 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R_0402_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,0625 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R_0402_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,0625 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R_0402_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,0625 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "ЭКБ ИП"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод Шоттки"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "ЭКБ ИП"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод Шоттки"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "ЭКБ ИП"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод Шоттки"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BR?-1
+Added Pin To Net: NetName=GND Pin=BR?-C1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC3V3 Pin=R3-1
+Added Pin To Net: NetName=VCC3V3 Pin=R3-1
+Added Pin To Net: NetName=VCC3V3 Pin=R3-1
+Added Pin To Net: NetName=ENC_A Pin=C?-1
+Added Pin To Net: NetName=ENC_A Pin=R3-1
+Added Pin To Net: NetName=ENC_A Pin=VD?-3
+Added Net: Name=ENC_A
+Added Pin To Net: NetName=ENC_B Pin=C?-1
+Added Pin To Net: NetName=ENC_B Pin=R3-1
+Added Pin To Net: NetName=ENC_B Pin=VD?-3
+Added Net: Name=ENC_B
+Added Pin To Net: NetName=ENC_PUSHBUT Pin=C?-1
+Added Pin To Net: NetName=ENC_PUSHBUT Pin=R3-1
+Added Pin To Net: NetName=ENC_PUSHBUT Pin=VD?-3
+Added Net: Name=ENC_PUSHBUT
+Added Pin To Net: NetName=NetBR?_2 Pin=BR?-2
+Added Pin To Net: NetName=NetBR?_2 Pin=R3-2
+Added Pin To Net: NetName=NetBR?_2 Pin=R3-2
+Added Pin To Net: NetName=NetBR?_2 Pin=VD?-1
+Added Net: Name=NetBR?_2
+Added Pin To Net: NetName=NetBR?_A1 Pin=BR?-A1
+Added Pin To Net: NetName=NetBR?_A1 Pin=R3-2
+Added Pin To Net: NetName=NetBR?_A1 Pin=R3-2
+Added Pin To Net: NetName=NetBR?_A1 Pin=VD?-1
+Added Net: Name=NetBR?_A1
+Added Pin To Net: NetName=NetBR?_B1 Pin=BR?-B1
+Added Pin To Net: NetName=NetBR?_B1 Pin=R3-2
+Added Pin To Net: NetName=NetBR?_B1 Pin=R3-2
+Added Pin To Net: NetName=NetBR?_B1 Pin=VD?-1
+Added Net: Name=NetBR?_B1
+Added Member To Class: ClassName=DrumPad Member=Component BR? PEC12R-4220F-S0024
+Added Member To Class: ClassName=DrumPad Member=Component C29 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C29 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C46 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C48 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C? CC1210KRX5R5BB476
+Added Member To Class: ClassName=DrumPad Member=Component C? CC0603KRX7R8BB103
+Added Member To Class: ClassName=DrumPad Member=Component C? CC0603KRX7R8BB103
+Added Member To Class: ClassName=DrumPad Member=Component DA? MAX1555EZK
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R43 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R43 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R43 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R43 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R? RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R? RC0603JR-07100KL
+Added Member To Class: ClassName=DrumPad Member=Component R? RC0603JR-07100KL
+Added Member To Class: ClassName=DrumPad Member=Component R? RC0603FR-07180KL
+Added Member To Class: ClassName=DrumPad Member=Component R? RC0603JR-07100KL
+Added Member To Class: ClassName=DrumPad Member=Component R? RC0603JR-07560KL
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54

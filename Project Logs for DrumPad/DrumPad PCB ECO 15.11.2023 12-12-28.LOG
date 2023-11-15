@@ -1,0 +1,611 @@
+Added Component: Designator=R5(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ğåçèñòîğ ïîñòîÿííûé"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ğåçèñòîğ ïîñòîÿííûé"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ğåçèñòîğ ïîñòîÿííûé"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,1 Âò"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ğåçèñòîğ ïîñòîÿííûé"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT-23)
+Add component (AddParameter): Name = "Forward voltage"; Value = "0,8 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "200 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward surge current"; Value = "600 ìÀ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "30 Â"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = "İÊÁ ÈÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Äèîä Øîòòêè"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B_C1 Pin=SB?-2
+Added Pin To Net: NetName=B_C1 Pin=SB?-2
+Added Pin To Net: NetName=B_C1 Pin=SB?-2
+Added Pin To Net: NetName=B_C1 Pin=SB?-2
+Added Pin To Net: NetName=B_C1 Pin=SB?-2
+Added Pin To Net: NetName=B_C1 Pin=SB?-2
+Added Pin To Net: NetName=B_C1 Pin=SB?-2
+Added Pin To Net: NetName=B_C1 Pin=SB?-2
+Added Net: Name=B_C1
+Added Pin To Net: NetName=B_C2 Pin=SB?-2
+Added Pin To Net: NetName=B_C2 Pin=SB?-2
+Added Pin To Net: NetName=B_C2 Pin=SB?-2
+Added Pin To Net: NetName=B_C2 Pin=SB?-2
+Added Pin To Net: NetName=B_C2 Pin=SB?-2
+Added Pin To Net: NetName=B_C2 Pin=SB?-2
+Added Pin To Net: NetName=B_C2 Pin=SB?-2
+Added Pin To Net: NetName=B_C2 Pin=SB?-2
+Added Net: Name=B_C2
+Added Pin To Net: NetName=B_C3 Pin=SB?-2
+Added Pin To Net: NetName=B_C3 Pin=SB?-2
+Added Pin To Net: NetName=B_C3 Pin=SB?-2
+Added Pin To Net: NetName=B_C3 Pin=SB?-2
+Added Pin To Net: NetName=B_C3 Pin=SB?-2
+Added Pin To Net: NetName=B_C3 Pin=SB?-2
+Added Pin To Net: NetName=B_C3 Pin=SB?-2
+Added Pin To Net: NetName=B_C3 Pin=SB?-2
+Added Net: Name=B_C3
+Added Pin To Net: NetName=B_C4 Pin=SB?-2
+Added Pin To Net: NetName=B_C4 Pin=SB?-2
+Added Pin To Net: NetName=B_C4 Pin=SB?-2
+Added Pin To Net: NetName=B_C4 Pin=SB?-2
+Added Pin To Net: NetName=B_C4 Pin=SB?-2
+Added Pin To Net: NetName=B_C4 Pin=SB?-2
+Added Pin To Net: NetName=B_C4 Pin=SB?-2
+Added Pin To Net: NetName=B_C4 Pin=SB?-2
+Added Net: Name=B_C4
+Added Pin To Net: NetName=B_C5 Pin=SB?-2
+Added Pin To Net: NetName=B_C5 Pin=SB?-2
+Added Pin To Net: NetName=B_C5 Pin=SB?-2
+Added Pin To Net: NetName=B_C5 Pin=SB?-2
+Added Pin To Net: NetName=B_C5 Pin=SB?-2
+Added Pin To Net: NetName=B_C5 Pin=SB?-2
+Added Pin To Net: NetName=B_C5 Pin=SB?-2
+Added Pin To Net: NetName=B_C5 Pin=SB?-2
+Added Net: Name=B_C5
+Added Pin To Net: NetName=B_C6 Pin=SB?-2
+Added Pin To Net: NetName=B_C6 Pin=SB?-2
+Added Pin To Net: NetName=B_C6 Pin=SB?-2
+Added Pin To Net: NetName=B_C6 Pin=SB?-2
+Added Pin To Net: NetName=B_C6 Pin=SB?-2
+Added Pin To Net: NetName=B_C6 Pin=SB?-2
+Added Pin To Net: NetName=B_C6 Pin=SB?-2
+Added Pin To Net: NetName=B_C6 Pin=SB?-2
+Added Net: Name=B_C6
+Added Pin To Net: NetName=B_C7 Pin=SB?-2
+Added Pin To Net: NetName=B_C7 Pin=SB?-2
+Added Pin To Net: NetName=B_C7 Pin=SB?-2
+Added Pin To Net: NetName=B_C7 Pin=SB?-2
+Added Pin To Net: NetName=B_C7 Pin=SB?-2
+Added Pin To Net: NetName=B_C7 Pin=SB?-2
+Added Pin To Net: NetName=B_C7 Pin=SB?-2
+Added Pin To Net: NetName=B_C7 Pin=SB?-2
+Added Net: Name=B_C7
+Added Pin To Net: NetName=B_C8 Pin=SB?-2
+Added Pin To Net: NetName=B_C8 Pin=SB?-2
+Added Pin To Net: NetName=B_C8 Pin=SB?-2
+Added Pin To Net: NetName=B_C8 Pin=SB?-2
+Added Pin To Net: NetName=B_C8 Pin=SB?-2
+Added Pin To Net: NetName=B_C8 Pin=SB?-2
+Added Pin To Net: NetName=B_C8 Pin=SB?-2
+Added Pin To Net: NetName=B_C8 Pin=SB?-2
+Added Net: Name=B_C8
+Added Pin To Net: NetName=B_R1 Pin=VD?-3
+Added Pin To Net: NetName=B_R1 Pin=VD?-3
+Added Pin To Net: NetName=B_R1 Pin=VD?-3
+Added Pin To Net: NetName=B_R1 Pin=VD?-3
+Added Pin To Net: NetName=B_R1 Pin=VD?-3
+Added Pin To Net: NetName=B_R1 Pin=VD?-3
+Added Pin To Net: NetName=B_R1 Pin=VD?-3
+Added Pin To Net: NetName=B_R1 Pin=VD?-3
+Added Net: Name=B_R1
+Added Pin To Net: NetName=B_R2 Pin=VD?-3
+Added Pin To Net: NetName=B_R2 Pin=VD?-3
+Added Pin To Net: NetName=B_R2 Pin=VD?-3
+Added Pin To Net: NetName=B_R2 Pin=VD?-3
+Added Pin To Net: NetName=B_R2 Pin=VD?-3
+Added Pin To Net: NetName=B_R2 Pin=VD?-3
+Added Pin To Net: NetName=B_R2 Pin=VD?-3
+Added Pin To Net: NetName=B_R2 Pin=VD?-3
+Added Net: Name=B_R2
+Added Pin To Net: NetName=B_R3 Pin=VD?-3
+Added Pin To Net: NetName=B_R3 Pin=VD?-3
+Added Pin To Net: NetName=B_R3 Pin=VD?-3
+Added Pin To Net: NetName=B_R3 Pin=VD?-3
+Added Pin To Net: NetName=B_R3 Pin=VD?-3
+Added Pin To Net: NetName=B_R3 Pin=VD?-3
+Added Pin To Net: NetName=B_R3 Pin=VD?-3
+Added Pin To Net: NetName=B_R3 Pin=VD?-3
+Added Net: Name=B_R3
+Added Pin To Net: NetName=B_R4 Pin=VD?-3
+Added Pin To Net: NetName=B_R4 Pin=VD?-3
+Added Pin To Net: NetName=B_R4 Pin=VD?-3
+Added Pin To Net: NetName=B_R4 Pin=VD?-3
+Added Pin To Net: NetName=B_R4 Pin=VD?-3
+Added Pin To Net: NetName=B_R4 Pin=VD?-3
+Added Pin To Net: NetName=B_R4 Pin=VD?-3
+Added Pin To Net: NetName=B_R4 Pin=VD?-3
+Added Net: Name=B_R4
+Added Pin To Net: NetName=L_C1 Pin=SB?-3
+Added Pin To Net: NetName=L_C1 Pin=SB?-3
+Added Pin To Net: NetName=L_C1 Pin=SB?-3
+Added Pin To Net: NetName=L_C1 Pin=SB?-3
+Added Net: Name=L_C1
+Added Pin To Net: NetName=L_C2 Pin=SB?-3
+Added Pin To Net: NetName=L_C2 Pin=SB?-3
+Added Pin To Net: NetName=L_C2 Pin=SB?-3
+Added Pin To Net: NetName=L_C2 Pin=SB?-3
+Added Net: Name=L_C2
+Added Pin To Net: NetName=L_C3 Pin=SB?-3
+Added Pin To Net: NetName=L_C3 Pin=SB?-3
+Added Pin To Net: NetName=L_C3 Pin=SB?-3
+Added Pin To Net: NetName=L_C3 Pin=SB?-3
+Added Net: Name=L_C3
+Added Pin To Net: NetName=L_C4 Pin=SB?-3
+Added Pin To Net: NetName=L_C4 Pin=SB?-3
+Added Pin To Net: NetName=L_C4 Pin=SB?-3
+Added Pin To Net: NetName=L_C4 Pin=SB?-3
+Added Net: Name=L_C4
+Added Pin To Net: NetName=L_C5 Pin=SB?-3
+Added Pin To Net: NetName=L_C5 Pin=SB?-3
+Added Pin To Net: NetName=L_C5 Pin=SB?-3
+Added Pin To Net: NetName=L_C5 Pin=SB?-3
+Added Net: Name=L_C5
+Added Pin To Net: NetName=L_C6 Pin=SB?-3
+Added Pin To Net: NetName=L_C6 Pin=SB?-3
+Added Pin To Net: NetName=L_C6 Pin=SB?-3
+Added Pin To Net: NetName=L_C6 Pin=SB?-3
+Added Net: Name=L_C6
+Added Pin To Net: NetName=L_C7 Pin=SB?-3
+Added Pin To Net: NetName=L_C7 Pin=SB?-3
+Added Pin To Net: NetName=L_C7 Pin=SB?-3
+Added Pin To Net: NetName=L_C7 Pin=SB?-3
+Added Net: Name=L_C7
+Added Pin To Net: NetName=L_C8 Pin=SB?-3
+Added Pin To Net: NetName=L_C8 Pin=SB?-3
+Added Pin To Net: NetName=L_C8 Pin=SB?-3
+Added Pin To Net: NetName=L_C8 Pin=SB?-3
+Added Net: Name=L_C8
+Added Pin To Net: NetName=L_R1 Pin=R5-2
+Added Pin To Net: NetName=L_R1 Pin=SB?-4
+Added Pin To Net: NetName=L_R1 Pin=SB?-4
+Added Pin To Net: NetName=L_R1 Pin=SB?-4
+Added Pin To Net: NetName=L_R1 Pin=SB?-4
+Added Pin To Net: NetName=L_R1 Pin=SB?-4
+Added Pin To Net: NetName=L_R1 Pin=SB?-4
+Added Pin To Net: NetName=L_R1 Pin=SB?-4
+Added Pin To Net: NetName=L_R1 Pin=SB?-4
+Added Net: Name=L_R1
+Added Pin To Net: NetName=L_R2 Pin=R5-2
+Added Pin To Net: NetName=L_R2 Pin=SB?-4
+Added Pin To Net: NetName=L_R2 Pin=SB?-4
+Added Pin To Net: NetName=L_R2 Pin=SB?-4
+Added Pin To Net: NetName=L_R2 Pin=SB?-4
+Added Pin To Net: NetName=L_R2 Pin=SB?-4
+Added Pin To Net: NetName=L_R2 Pin=SB?-4
+Added Pin To Net: NetName=L_R2 Pin=SB?-4
+Added Pin To Net: NetName=L_R2 Pin=SB?-4
+Added Net: Name=L_R2
+Added Pin To Net: NetName=L_R3 Pin=R5-2
+Added Pin To Net: NetName=L_R3 Pin=SB?-4
+Added Pin To Net: NetName=L_R3 Pin=SB?-4
+Added Pin To Net: NetName=L_R3 Pin=SB?-4
+Added Pin To Net: NetName=L_R3 Pin=SB?-4
+Added Pin To Net: NetName=L_R3 Pin=SB?-4
+Added Pin To Net: NetName=L_R3 Pin=SB?-4
+Added Pin To Net: NetName=L_R3 Pin=SB?-4
+Added Pin To Net: NetName=L_R3 Pin=SB?-4
+Added Net: Name=L_R3
+Added Pin To Net: NetName=L_R4 Pin=R5-2
+Added Pin To Net: NetName=L_R4 Pin=SB?-4
+Added Pin To Net: NetName=L_R4 Pin=SB?-4
+Added Pin To Net: NetName=L_R4 Pin=SB?-4
+Added Pin To Net: NetName=L_R4 Pin=SB?-4
+Added Pin To Net: NetName=L_R4 Pin=SB?-4
+Added Pin To Net: NetName=L_R4 Pin=SB?-4
+Added Pin To Net: NetName=L_R4 Pin=SB?-4
+Added Pin To Net: NetName=L_R4 Pin=SB?-4
+Added Net: Name=L_R4
+Added Pin To Net: NetName=NetSB?_1 Pin=SB?-1
+Added Pin To Net: NetName=NetSB?_1 Pin=SB?-1
+Added Pin To Net: NetName=NetSB?_1 Pin=VD?-1
+Added Net: Name=NetSB?_1
+Added Member To Class: ClassName=DrumPad Member=Component C29 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C29 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C46 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C48 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C? CC0603KRX7R8BB103
+Added Member To Class: ClassName=DrumPad Member=Component C? CC0603KRX7R8BB103
+Added Member To Class: ClassName=DrumPad Member=Component C? CC1210KRX5R5BB476
+Added Member To Class: ClassName=DrumPad Member=Component DA? MAX1555EZK
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R5 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R5 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R5 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R5 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R43 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R43 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R43 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R43 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R? RC0603JR-07100KL
+Added Member To Class: ClassName=DrumPad Member=Component R? RC0603JR-07100KL
+Added Member To Class: ClassName=DrumPad Member=Component R? RC0603JR-07100KL
+Added Member To Class: ClassName=DrumPad Member=Component R? RC0603JR-07560KL
+Added Member To Class: ClassName=DrumPad Member=Component R? RC0603FR-07180KL
+Added Member To Class: ClassName=DrumPad Member=Component R? RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB? Led_button
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAT54
