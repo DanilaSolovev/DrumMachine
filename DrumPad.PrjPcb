@@ -76,32 +76,32 @@ DocumentPath=Project Outputs for DrumPad\Move Component(s) Origin To Grid - Drum
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Утвердил
-Value=Никто(
+Name=Document Number
+Value=DP.01
 
 [Parameter2]
-Name=Разработал
-Value=Я
+Name=DocumentNumber
+Value=DP.01
 
 [Parameter3]
-Name=Проверил
-Value=Никто(
+Name=Name
+Value=ДАНЯ
 
 [Parameter4]
 Name=Title doc
 Value=Drum Pad
 
 [Parameter5]
-Name=Name
-Value=ДАНЯ
+Name=Проверил
+Value=Никто(
 
 [Parameter6]
-Name=DocumentNumber
-Value=DP.01
+Name=Разработал
+Value=Я
 
 [Parameter7]
-Name=Document Number
-Value=DP.01
+Name=Утвердил
+Value=Никто(
 
 [Configuration1]
 Name=Sources
