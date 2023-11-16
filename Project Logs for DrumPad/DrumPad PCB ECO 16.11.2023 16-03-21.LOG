@@ -1,0 +1,649 @@
+Removed Pin From Net: NetName=NetSB1_1 Pin=VD1-1
+Removed Pin From Net: NetName=B_R1 Pin=VD1-3
+Removed Pin From Net: NetName=NetSB2_1 Pin=VD2-1
+Removed Pin From Net: NetName=B_R1 Pin=VD2-3
+Removed Pin From Net: NetName=NetSB3_1 Pin=VD3-1
+Removed Pin From Net: NetName=B_R1 Pin=VD3-3
+Removed Pin From Net: NetName=NetSB4_1 Pin=VD4-1
+Removed Pin From Net: NetName=B_R1 Pin=VD4-3
+Removed Pin From Net: NetName=NetSB5_1 Pin=VD5-1
+Removed Pin From Net: NetName=B_R1 Pin=VD5-3
+Removed Pin From Net: NetName=NetSB6_1 Pin=VD6-1
+Removed Pin From Net: NetName=B_R1 Pin=VD6-3
+Removed Pin From Net: NetName=NetSB7_1 Pin=VD7-1
+Removed Pin From Net: NetName=B_R1 Pin=VD7-3
+Removed Pin From Net: NetName=NetSB8_1 Pin=VD8-1
+Removed Pin From Net: NetName=B_R1 Pin=VD8-3
+Removed Pin From Net: NetName=NetSB9_1 Pin=VD9-1
+Removed Pin From Net: NetName=B_R2 Pin=VD9-3
+Removed Pin From Net: NetName=NetSB10_1 Pin=VD10-1
+Removed Pin From Net: NetName=B_R2 Pin=VD10-3
+Removed Pin From Net: NetName=NetSB11_1 Pin=VD11-1
+Removed Pin From Net: NetName=B_R2 Pin=VD11-3
+Removed Pin From Net: NetName=NetSB12_1 Pin=VD12-1
+Removed Pin From Net: NetName=B_R2 Pin=VD12-3
+Removed Pin From Net: NetName=NetSB13_1 Pin=VD13-1
+Removed Pin From Net: NetName=B_R2 Pin=VD13-3
+Removed Pin From Net: NetName=NetSB14_1 Pin=VD14-1
+Removed Pin From Net: NetName=B_R2 Pin=VD14-3
+Removed Pin From Net: NetName=NetSB15_1 Pin=VD15-1
+Removed Pin From Net: NetName=B_R2 Pin=VD15-3
+Removed Pin From Net: NetName=NetSB16_1 Pin=VD16-1
+Removed Pin From Net: NetName=B_R2 Pin=VD16-3
+Removed Pin From Net: NetName=NetSB17_1 Pin=VD17-1
+Removed Pin From Net: NetName=B_R3 Pin=VD17-3
+Removed Pin From Net: NetName=NetSB18_1 Pin=VD18-1
+Removed Pin From Net: NetName=B_R3 Pin=VD18-3
+Removed Pin From Net: NetName=NetSB19_1 Pin=VD19-1
+Removed Pin From Net: NetName=B_R3 Pin=VD19-3
+Removed Pin From Net: NetName=NetSB20_1 Pin=VD20-1
+Removed Pin From Net: NetName=B_R3 Pin=VD20-3
+Removed Pin From Net: NetName=NetSB21_1 Pin=VD21-1
+Removed Pin From Net: NetName=B_R3 Pin=VD21-3
+Removed Pin From Net: NetName=NetSB22_1 Pin=VD22-1
+Removed Pin From Net: NetName=B_R3 Pin=VD22-3
+Removed Pin From Net: NetName=NetSB23_1 Pin=VD23-1
+Removed Pin From Net: NetName=B_R3 Pin=VD23-3
+Removed Pin From Net: NetName=NetSB24_1 Pin=VD24-1
+Removed Pin From Net: NetName=B_R3 Pin=VD24-3
+Removed Pin From Net: NetName=NetSB25_1 Pin=VD25-1
+Removed Pin From Net: NetName=B_R4 Pin=VD25-3
+Removed Pin From Net: NetName=NetSB26_1 Pin=VD26-1
+Removed Pin From Net: NetName=B_R4 Pin=VD26-3
+Removed Pin From Net: NetName=NetSB27_1 Pin=VD27-1
+Removed Pin From Net: NetName=B_R4 Pin=VD27-3
+Removed Pin From Net: NetName=NetSB28_1 Pin=VD28-1
+Removed Pin From Net: NetName=B_R4 Pin=VD28-3
+Removed Pin From Net: NetName=NetSB29_1 Pin=VD29-1
+Removed Pin From Net: NetName=B_R4 Pin=VD29-3
+Removed Pin From Net: NetName=NetSB30_1 Pin=VD30-1
+Removed Pin From Net: NetName=B_R4 Pin=VD30-3
+Removed Pin From Net: NetName=NetSB31_1 Pin=VD31-1
+Removed Pin From Net: NetName=B_R4 Pin=VD31-3
+Removed Pin From Net: NetName=NetSB32_1 Pin=VD32-1
+Removed Pin From Net: NetName=B_R4 Pin=VD32-3
+Change Component DesignItemId : Designator=VD1 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD2 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD3 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD4 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD5 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD6 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD7 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD8 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD9 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD10 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD11 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD12 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD13 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD14 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD15 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD16 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD17 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD18 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD19 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD20 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD21 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD22 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD23 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD24 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD25 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD26 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD27 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD28 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD29 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD30 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD31 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD32 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component Footprint: Designator=VD1 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD2 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD3 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD4 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD5 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD6 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD7 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD8 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD9 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD10 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD11 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD12 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD13 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD14 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD15 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD16 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD17 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD18 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD19 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD20 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD21 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD22 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD23 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD24 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD25 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD26 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD27 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD28 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD29 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD30 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD31 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD32 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Comment : Designator=VD1 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD2 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD3 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD4 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD5 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD6 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD7 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD8 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD9 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD10 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD11 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD12 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD13 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD14 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD15 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD16 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD17 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD18 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD19 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD20 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD21 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD22 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD23 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD24 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD25 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD26 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD27 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD28 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD29 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD30 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD31 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD32 Old Comment=BAT54 New Comment=BAS516
+Change Component Description : Designator=VD1 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD2 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD3 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD4 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD5 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD6 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD7 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD8 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD9 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD10 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD11 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD12 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD13 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD14 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD15 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD16 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD17 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD18 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD19 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD20 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD21 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD22 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD23 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD24 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD25 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD26 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD27 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD28 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD29 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD30 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD31 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD32 Old Description=Schottky Diode New Description=High-speed switching diode
+Change component parameters: Designator = "VD1" ("VD1"); Footprint = "SOT-23"; UniqueID = "\NZDVJCVW" ("\NZDVJCVW")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD2" ("VD2"); Footprint = "SOT-23"; UniqueID = "\JXFKDDQO" ("\JXFKDDQO")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD3" ("VD3"); Footprint = "SOT-23"; UniqueID = "\WBRXOHLG" ("\WBRXOHLG")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD4" ("VD4"); Footprint = "SOT-23"; UniqueID = "\EZWNIEVA" ("\EZWNIEVA")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD5" ("VD5"); Footprint = "SOT-23"; UniqueID = "\LODBSLHA" ("\LODBSLHA")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD6" ("VD6"); Footprint = "SOT-23"; UniqueID = "\AOGLCWNJ" ("\AOGLCWNJ")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD7" ("VD7"); Footprint = "SOT-23"; UniqueID = "\UUTTUDOV" ("\UUTTUDOV")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD8" ("VD8"); Footprint = "SOT-23"; UniqueID = "\RORBDLKS" ("\RORBDLKS")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD9" ("VD9"); Footprint = "SOT-23"; UniqueID = "\OHLJWRTO" ("\OHLJWRTO")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD10" ("VD10"); Footprint = "SOT-23"; UniqueID = "\DTXFKEVC" ("\DTXFKEVC")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD11" ("VD11"); Footprint = "SOT-23"; UniqueID = "\MGYOTPHG" ("\MGYOTPHG")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD12" ("VD12"); Footprint = "SOT-23"; UniqueID = "\FAGNZMUP" ("\FAGNZMUP")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD13" ("VD13"); Footprint = "SOT-23"; UniqueID = "\LFTHHICC" ("\LFTHHICC")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD14" ("VD14"); Footprint = "SOT-23"; UniqueID = "\FDBKVAKE" ("\FDBKVAKE")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD15" ("VD15"); Footprint = "SOT-23"; UniqueID = "\JDUJOPGC" ("\JDUJOPGC")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD16" ("VD16"); Footprint = "SOT-23"; UniqueID = "\DSJLUVQK" ("\DSJLUVQK")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD17" ("VD17"); Footprint = "SOT-23"; UniqueID = "\BFFQEEBH" ("\BFFQEEBH")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD18" ("VD18"); Footprint = "SOT-23"; UniqueID = "\COVESBUJ" ("\COVESBUJ")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD19" ("VD19"); Footprint = "SOT-23"; UniqueID = "\HIIWEXNN" ("\HIIWEXNN")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD20" ("VD20"); Footprint = "SOT-23"; UniqueID = "\VUOPTGMB" ("\VUOPTGMB")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD21" ("VD21"); Footprint = "SOT-23"; UniqueID = "\NKOMFQQH" ("\NKOMFQQH")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD22" ("VD22"); Footprint = "SOT-23"; UniqueID = "\EWTXYLGY" ("\EWTXYLGY")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD23" ("VD23"); Footprint = "SOT-23"; UniqueID = "\WUIHXRYA" ("\WUIHXRYA")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD24" ("VD24"); Footprint = "SOT-23"; UniqueID = "\PTCJKKNU" ("\PTCJKKNU")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD25" ("VD25"); Footprint = "SOT-23"; UniqueID = "\KJUAGNZQ" ("\KJUAGNZQ")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD26" ("VD26"); Footprint = "SOT-23"; UniqueID = "\BTGJFUPH" ("\BTGJFUPH")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD27" ("VD27"); Footprint = "SOT-23"; UniqueID = "\JIFHZHPT" ("\JIFHZHPT")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD28" ("VD28"); Footprint = "SOT-23"; UniqueID = "\JDOOFGVP" ("\JDOOFGVP")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD29" ("VD29"); Footprint = "SOT-23"; UniqueID = "\LSMBSMLX" ("\LSMBSMLX")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD30" ("VD30"); Footprint = "SOT-23"; UniqueID = "\NZKPWXMA" ("\NZKPWXMA")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD31" ("VD31"); Footprint = "SOT-23"; UniqueID = "\YFXPITJG" ("\YFXPITJG")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD32" ("VD32"); Footprint = "SOT-23"; UniqueID = "\CRBBFWBF" ("\CRBBFWBF")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOD-523)
+Add component (AddParameter): Name = "Forward voltage"; Value = "1 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max forward average current"; Value = "250 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max reverse voltage"; Value = "100 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "500 мВт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse recovery time"; Value = "4 нс"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод импульсный"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetSB1_1 Pin=VD1-A
+Added Pin To Net: NetName=B_R1 Pin=VD1-C
+Added Pin To Net: NetName=NetSB2_1 Pin=VD2-A
+Added Pin To Net: NetName=B_R1 Pin=VD2-C
+Added Pin To Net: NetName=NetSB3_1 Pin=VD3-A
+Added Pin To Net: NetName=B_R1 Pin=VD3-C
+Added Pin To Net: NetName=NetSB4_1 Pin=VD4-A
+Added Pin To Net: NetName=B_R1 Pin=VD4-C
+Added Pin To Net: NetName=NetSB5_1 Pin=VD5-A
+Added Pin To Net: NetName=B_R1 Pin=VD5-C
+Added Pin To Net: NetName=NetSB6_1 Pin=VD6-A
+Added Pin To Net: NetName=B_R1 Pin=VD6-C
+Added Pin To Net: NetName=NetSB7_1 Pin=VD7-A
+Added Pin To Net: NetName=B_R1 Pin=VD7-C
+Added Pin To Net: NetName=NetSB8_1 Pin=VD8-A
+Added Pin To Net: NetName=B_R1 Pin=VD8-C
+Added Pin To Net: NetName=NetSB9_1 Pin=VD9-A
+Added Pin To Net: NetName=B_R2 Pin=VD9-C
+Added Pin To Net: NetName=NetSB10_1 Pin=VD10-A
+Added Pin To Net: NetName=B_R2 Pin=VD10-C
+Added Pin To Net: NetName=NetSB11_1 Pin=VD11-A
+Added Pin To Net: NetName=B_R2 Pin=VD11-C
+Added Pin To Net: NetName=NetSB12_1 Pin=VD12-A
+Added Pin To Net: NetName=B_R2 Pin=VD12-C
+Added Pin To Net: NetName=NetSB13_1 Pin=VD13-A
+Added Pin To Net: NetName=B_R2 Pin=VD13-C
+Added Pin To Net: NetName=NetSB14_1 Pin=VD14-A
+Added Pin To Net: NetName=B_R2 Pin=VD14-C
+Added Pin To Net: NetName=NetSB15_1 Pin=VD15-A
+Added Pin To Net: NetName=B_R2 Pin=VD15-C
+Added Pin To Net: NetName=NetSB16_1 Pin=VD16-A
+Added Pin To Net: NetName=B_R2 Pin=VD16-C
+Added Pin To Net: NetName=NetSB17_1 Pin=VD17-A
+Added Pin To Net: NetName=B_R3 Pin=VD17-C
+Added Pin To Net: NetName=NetSB18_1 Pin=VD18-A
+Added Pin To Net: NetName=B_R3 Pin=VD18-C
+Added Pin To Net: NetName=NetSB19_1 Pin=VD19-A
+Added Pin To Net: NetName=B_R3 Pin=VD19-C
+Added Pin To Net: NetName=NetSB20_1 Pin=VD20-A
+Added Pin To Net: NetName=B_R3 Pin=VD20-C
+Added Pin To Net: NetName=NetSB21_1 Pin=VD21-A
+Added Pin To Net: NetName=B_R3 Pin=VD21-C
+Added Pin To Net: NetName=NetSB22_1 Pin=VD22-A
+Added Pin To Net: NetName=B_R3 Pin=VD22-C
+Added Pin To Net: NetName=NetSB23_1 Pin=VD23-A
+Added Pin To Net: NetName=B_R3 Pin=VD23-C
+Added Pin To Net: NetName=NetSB24_1 Pin=VD24-A
+Added Pin To Net: NetName=B_R3 Pin=VD24-C
+Added Pin To Net: NetName=NetSB25_1 Pin=VD25-A
+Added Pin To Net: NetName=B_R4 Pin=VD25-C
+Added Pin To Net: NetName=NetSB26_1 Pin=VD26-A
+Added Pin To Net: NetName=B_R4 Pin=VD26-C
+Added Pin To Net: NetName=NetSB27_1 Pin=VD27-A
+Added Pin To Net: NetName=B_R4 Pin=VD27-C
+Added Pin To Net: NetName=NetSB28_1 Pin=VD28-A
+Added Pin To Net: NetName=B_R4 Pin=VD28-C
+Added Pin To Net: NetName=NetSB29_1 Pin=VD29-A
+Added Pin To Net: NetName=B_R4 Pin=VD29-C
+Added Pin To Net: NetName=NetSB30_1 Pin=VD30-A
+Added Pin To Net: NetName=B_R4 Pin=VD30-C
+Added Pin To Net: NetName=NetSB31_1 Pin=VD31-A
+Added Pin To Net: NetName=B_R4 Pin=VD31-C
+Added Pin To Net: NetName=NetSB32_1 Pin=VD32-A
+Added Pin To Net: NetName=B_R4 Pin=VD32-C
+Change Net Name : Old Net Name=AUDIO_V_L New Net Name=NetDA1_10
+Change Net Name : Old Net Name=AUDIO_V_R New Net Name=NetDA1_3
+Change Net Name : Old Net Name=BAT_SWITCH+ New Net Name=NetC24_1
+Added Member To Class: ClassName=DrumPad Member=Component C2 GRM1885C1H100JA01
+Added Member To Class: ClassName=DrumPad Member=Component C3 T495D477K006ATE100
+Added Member To Class: ClassName=DrumPad Member=Component C4 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C5 GRM188R61C105KA93
+Added Member To Class: ClassName=DrumPad Member=Component C6 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C7 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C8 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C9 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C10 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C11 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C16 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C29 CC0603KRX7R8BB103
+Added Member To Class: ClassName=DrumPad Member=Component L1 BLM18AG102SN1
+Added Member To Class: ClassName=DrumPad Member=Component R1 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R2 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R4 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R5 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R6 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R7 RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R8 RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R9 RC0603FR-074R7L
+Added Member To Class: ClassName=DrumPad Member=Component R10 RC0603FR-074R7L
+Added Member To Class: ClassName=DrumPad Member=Component R11 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R12 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R13 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component VD? BAS516

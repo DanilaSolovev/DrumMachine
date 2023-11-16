@@ -1,0 +1,557 @@
+Change Component Footprint: Designator=C27 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C29 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C29 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C29 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C31 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C37 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C38 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C41 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C44 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C45 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C46 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C46 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C48 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C48 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C51 Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C? Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C? Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Footprint: Designator=C? Old Footprint=C_0603_Auto_mount New Footprint=C_0603_Manual_mount
+Change Component Designator: OldDesignator=BR? NewDesignator=BR1
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=DA? NewDesignator=DA3
+Change Component Designator: OldDesignator=DA? NewDesignator=DA4
+Change Component Designator: OldDesignator=DD? NewDesignator=DD1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=SB? NewDesignator=SB1
+Change Component Designator: OldDesignator=SB? NewDesignator=SB2
+Change Component Designator: OldDesignator=SB? NewDesignator=SB3
+Change Component Designator: OldDesignator=SB? NewDesignator=SB4
+Change Component Designator: OldDesignator=SB? NewDesignator=SB5
+Change Component Designator: OldDesignator=SB? NewDesignator=SB6
+Change Component Designator: OldDesignator=SB? NewDesignator=SB7
+Change Component Designator: OldDesignator=SB? NewDesignator=SB8
+Change Component Designator: OldDesignator=SB? NewDesignator=SB9
+Change Component Designator: OldDesignator=SB? NewDesignator=SB10
+Change Component Designator: OldDesignator=SB? NewDesignator=SB11
+Change Component Designator: OldDesignator=SB? NewDesignator=SB12
+Change Component Designator: OldDesignator=SB? NewDesignator=SB13
+Change Component Designator: OldDesignator=SB? NewDesignator=SB14
+Change Component Designator: OldDesignator=SB? NewDesignator=SB15
+Change Component Designator: OldDesignator=SB? NewDesignator=SB16
+Change Component Designator: OldDesignator=SB? NewDesignator=SB17
+Change Component Designator: OldDesignator=SB? NewDesignator=SB18
+Change Component Designator: OldDesignator=SB? NewDesignator=SB19
+Change Component Designator: OldDesignator=SB? NewDesignator=SB20
+Change Component Designator: OldDesignator=SB? NewDesignator=SB21
+Change Component Designator: OldDesignator=SB? NewDesignator=SB22
+Change Component Designator: OldDesignator=SB? NewDesignator=SB23
+Change Component Designator: OldDesignator=SB? NewDesignator=SB24
+Change Component Designator: OldDesignator=SB? NewDesignator=SB25
+Change Component Designator: OldDesignator=SB? NewDesignator=SB26
+Change Component Designator: OldDesignator=SB? NewDesignator=SB27
+Change Component Designator: OldDesignator=SB? NewDesignator=SB28
+Change Component Designator: OldDesignator=SB? NewDesignator=SB29
+Change Component Designator: OldDesignator=SB? NewDesignator=SB30
+Change Component Designator: OldDesignator=SB? NewDesignator=SB31
+Change Component Designator: OldDesignator=SB? NewDesignator=SB32
+Change Component Designator: OldDesignator=SB? NewDesignator=SB33
+Change Component Designator: OldDesignator=VD? NewDesignator=VD1
+Change Component Designator: OldDesignator=VD? NewDesignator=VD2
+Change Component Designator: OldDesignator=VD? NewDesignator=VD3
+Change Component Designator: OldDesignator=VD? NewDesignator=VD4
+Change Component Designator: OldDesignator=VD? NewDesignator=VD5
+Change Component Designator: OldDesignator=VD? NewDesignator=VD6
+Change Component Designator: OldDesignator=VD? NewDesignator=VD7
+Change Component Designator: OldDesignator=VD? NewDesignator=VD8
+Change Component Designator: OldDesignator=VD? NewDesignator=VD9
+Change Component Designator: OldDesignator=VD? NewDesignator=VD10
+Change Component Designator: OldDesignator=VD? NewDesignator=VD11
+Change Component Designator: OldDesignator=VD? NewDesignator=VD12
+Change Component Designator: OldDesignator=VD? NewDesignator=VD13
+Change Component Designator: OldDesignator=VD? NewDesignator=VD14
+Change Component Designator: OldDesignator=VD? NewDesignator=VD15
+Change Component Designator: OldDesignator=VD? NewDesignator=VD16
+Change Component Designator: OldDesignator=VD? NewDesignator=VD17
+Change Component Designator: OldDesignator=VD? NewDesignator=VD18
+Change Component Designator: OldDesignator=VD? NewDesignator=VD19
+Change Component Designator: OldDesignator=VD? NewDesignator=VD20
+Change Component Designator: OldDesignator=VD? NewDesignator=VD21
+Change Component Designator: OldDesignator=VD? NewDesignator=VD22
+Change Component Designator: OldDesignator=VD? NewDesignator=VD23
+Change Component Designator: OldDesignator=VD? NewDesignator=VD24
+Change Component Designator: OldDesignator=VD? NewDesignator=VD25
+Change Component Designator: OldDesignator=VD? NewDesignator=VD26
+Change Component Designator: OldDesignator=VD? NewDesignator=VD27
+Change Component Designator: OldDesignator=VD? NewDesignator=VD28
+Change Component Designator: OldDesignator=VD? NewDesignator=VD29
+Change Component Designator: OldDesignator=VD? NewDesignator=VD30
+Change Component Designator: OldDesignator=VD? NewDesignator=VD31
+Change Component Designator: OldDesignator=VD? NewDesignator=VD32
+Change Component Designator: OldDesignator=VD? NewDesignator=VD33
+Change Component Designator: OldDesignator=VD? NewDesignator=VD34
+Change Component Designator: OldDesignator=VD? NewDesignator=VD35
+Change Component Designator: OldDesignator=VD? NewDesignator=VD36
+Change Component Designator: OldDesignator=VD? NewDesignator=VD37
+Change Component Designator: OldDesignator=VT? NewDesignator=VT1
+Change Component Designator: OldDesignator=XP? NewDesignator=XP1
+Change Component Designator: OldDesignator=XS? NewDesignator=XS2
+Added Component: Designator=C2(T495D)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "6,3 B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "7.3 X 4.3 X 2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C4(T495D)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "6,3 B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "7.3 X 4.3 X 2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C_Tan_C_Manual_mount)
+Add component (AddParameter): Name = "ESR"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "10 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C_Tan_C_Manual_mount)
+Add component (AddParameter): Name = "ESR"; Value = "100 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "10 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор танталовый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C31(C_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "16 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1,0 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(MSOP-10)
+Add component (AddParameter): Name = "End-to-end resistance"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply voltage"; Value = "2.7... 5.5 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-40 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Цифровой потенциометр"; VariantName = "[No Variations]"
+Added Component: Designator=DA2(SO-8)
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output current"; Value = "1 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply voltage"; Value = "1,8 В ... 15 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-40 ... 150 °C"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7"; VariantName = "[No Variations]"
+Added Component: Designator=R39(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7 к"; VariantName = "[No Variations]"
+Added Component: Designator=R40(R_0603_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7 к"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VCC3V3 Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=VCC3V3 Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=DA1-1
+Added Pin To Net: NetName=GND Pin=DA1-4
+Added Pin To Net: NetName=VCC3V3 Pin=DA1-5
+Added Pin To Net: NetName=GND Pin=DA1-9
+Added Pin To Net: NetName=VCC3V3 Pin=DA2-2
+Added Pin To Net: NetName=GND Pin=DA2-4
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=VCC3V3 Pin=R39-2
+Added Pin To Net: NetName=VCC3V3 Pin=R40-2
+Change Net Name : Old Net Name=NetBR?_2 New Net Name=NetBR1_2
+Change Net Name : Old Net Name=NetBR?_A1 New Net Name=NetBR1_A1
+Change Net Name : Old Net Name=NetBR?_B1 New Net Name=NetBR1_B1
+Change Net Name : Old Net Name=NetDA?_1 New Net Name=NetDA3_1
+Change Net Name : Old Net Name=NetDA?_3 New Net Name=NetDA3_3
+Change Net Name : Old Net Name=NetDA?_11 New Net Name=NetDA3_11
+Change Net Name : Old Net Name=NetDD?_6 New Net Name=NetDD1_6
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetSB?_1 New Net Name=NetSB5_1
+Added Pin To Net: NetName=AUDIO_L Pin=DA1-2
+Added Net: Name=AUDIO_L
+Added Pin To Net: NetName=AUDIO_R Pin=DA1-8
+Added Net: Name=AUDIO_R
+Added Pin To Net: NetName=AUDIO_V_L Pin=DA1-10
+Added Pin To Net: NetName=AUDIO_V_L Pin=DA2-7
+Added Pin To Net: NetName=AUDIO_V_L Pin=R1-1
+Added Net: Name=AUDIO_V_L
+Added Pin To Net: NetName=AUDIO_V_R Pin=DA1-3
+Added Pin To Net: NetName=AUDIO_V_R Pin=DA2-6
+Added Pin To Net: NetName=AUDIO_V_R Pin=R2-1
+Added Net: Name=AUDIO_V_R
+Added Pin To Net: NetName=I2C_SCL Pin=DA1-6
+Added Pin To Net: NetName=I2C_SCL Pin=R40-1
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=DA1-7
+Added Pin To Net: NetName=I2C_SDA Pin=R39-1
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=DA2-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=DA2-3
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=DA2-8
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=DA2-5
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Pin To Net: NetName=NetC37_2 Pin=R6-2
+Added Net: Name=NetC37_2
+Added Pin To Net: NetName=NetDA4_3 Pin=DA4-3
+Added Pin To Net: NetName=NetDA4_3 Pin=R9-1
+Added Net: Name=NetDA4_3
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=VD36-1
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetSB1_1 Pin=SB1-1
+Added Pin To Net: NetName=NetSB1_1 Pin=SB1-1
+Added Pin To Net: NetName=NetSB1_1 Pin=VD1-1
+Added Net: Name=NetSB1_1
+Added Pin To Net: NetName=NetSB2_1 Pin=SB2-1
+Added Pin To Net: NetName=NetSB2_1 Pin=SB2-1
+Added Pin To Net: NetName=NetSB2_1 Pin=VD2-1
+Added Net: Name=NetSB2_1
+Added Pin To Net: NetName=NetSB3_1 Pin=SB3-1
+Added Pin To Net: NetName=NetSB3_1 Pin=SB3-1
+Added Pin To Net: NetName=NetSB3_1 Pin=VD3-1
+Added Net: Name=NetSB3_1
+Added Pin To Net: NetName=NetSB4_1 Pin=SB4-1
+Added Pin To Net: NetName=NetSB4_1 Pin=SB4-1
+Added Pin To Net: NetName=NetSB4_1 Pin=VD4-1
+Added Net: Name=NetSB4_1
+Added Pin To Net: NetName=NetSB6_1 Pin=SB6-1
+Added Pin To Net: NetName=NetSB6_1 Pin=SB6-1
+Added Pin To Net: NetName=NetSB6_1 Pin=VD6-1
+Added Net: Name=NetSB6_1
+Added Pin To Net: NetName=NetSB7_1 Pin=SB7-1
+Added Pin To Net: NetName=NetSB7_1 Pin=SB7-1
+Added Pin To Net: NetName=NetSB7_1 Pin=VD7-1
+Added Net: Name=NetSB7_1
+Added Pin To Net: NetName=NetSB8_1 Pin=SB8-1
+Added Pin To Net: NetName=NetSB8_1 Pin=SB8-1
+Added Pin To Net: NetName=NetSB8_1 Pin=VD8-1
+Added Net: Name=NetSB8_1
+Added Pin To Net: NetName=NetSB9_1 Pin=SB9-1
+Added Pin To Net: NetName=NetSB9_1 Pin=SB9-1
+Added Pin To Net: NetName=NetSB9_1 Pin=VD9-1
+Added Net: Name=NetSB9_1
+Added Pin To Net: NetName=NetSB10_1 Pin=SB10-1
+Added Pin To Net: NetName=NetSB10_1 Pin=SB10-1
+Added Pin To Net: NetName=NetSB10_1 Pin=VD10-1
+Added Net: Name=NetSB10_1
+Added Pin To Net: NetName=NetSB11_1 Pin=SB11-1
+Added Pin To Net: NetName=NetSB11_1 Pin=SB11-1
+Added Pin To Net: NetName=NetSB11_1 Pin=VD11-1
+Added Net: Name=NetSB11_1
+Added Pin To Net: NetName=NetSB12_1 Pin=SB12-1
+Added Pin To Net: NetName=NetSB12_1 Pin=SB12-1
+Added Pin To Net: NetName=NetSB12_1 Pin=VD12-1
+Added Net: Name=NetSB12_1
+Added Pin To Net: NetName=NetSB13_1 Pin=SB13-1
+Added Pin To Net: NetName=NetSB13_1 Pin=SB13-1
+Added Pin To Net: NetName=NetSB13_1 Pin=VD13-1
+Added Net: Name=NetSB13_1
+Added Pin To Net: NetName=NetSB14_1 Pin=SB14-1
+Added Pin To Net: NetName=NetSB14_1 Pin=SB14-1
+Added Pin To Net: NetName=NetSB14_1 Pin=VD14-1
+Added Net: Name=NetSB14_1
+Added Pin To Net: NetName=NetSB15_1 Pin=SB15-1
+Added Pin To Net: NetName=NetSB15_1 Pin=SB15-1
+Added Pin To Net: NetName=NetSB15_1 Pin=VD15-1
+Added Net: Name=NetSB15_1
+Added Pin To Net: NetName=NetSB16_1 Pin=SB16-1
+Added Pin To Net: NetName=NetSB16_1 Pin=SB16-1
+Added Pin To Net: NetName=NetSB16_1 Pin=VD16-1
+Added Net: Name=NetSB16_1
+Added Pin To Net: NetName=NetSB17_1 Pin=SB17-1
+Added Pin To Net: NetName=NetSB17_1 Pin=SB17-1
+Added Pin To Net: NetName=NetSB17_1 Pin=VD17-1
+Added Net: Name=NetSB17_1
+Added Pin To Net: NetName=NetSB18_1 Pin=SB18-1
+Added Pin To Net: NetName=NetSB18_1 Pin=SB18-1
+Added Pin To Net: NetName=NetSB18_1 Pin=VD18-1
+Added Net: Name=NetSB18_1
+Added Pin To Net: NetName=NetSB19_1 Pin=SB19-1
+Added Pin To Net: NetName=NetSB19_1 Pin=SB19-1
+Added Pin To Net: NetName=NetSB19_1 Pin=VD19-1
+Added Net: Name=NetSB19_1
+Added Pin To Net: NetName=NetSB20_1 Pin=SB20-1
+Added Pin To Net: NetName=NetSB20_1 Pin=SB20-1
+Added Pin To Net: NetName=NetSB20_1 Pin=VD20-1
+Added Net: Name=NetSB20_1
+Added Pin To Net: NetName=NetSB21_1 Pin=SB21-1
+Added Pin To Net: NetName=NetSB21_1 Pin=SB21-1
+Added Pin To Net: NetName=NetSB21_1 Pin=VD21-1
+Added Net: Name=NetSB21_1
+Added Pin To Net: NetName=NetSB22_1 Pin=SB22-1
+Added Pin To Net: NetName=NetSB22_1 Pin=SB22-1
+Added Pin To Net: NetName=NetSB22_1 Pin=VD22-1
+Added Net: Name=NetSB22_1
+Added Pin To Net: NetName=NetSB23_1 Pin=SB23-1
+Added Pin To Net: NetName=NetSB23_1 Pin=SB23-1
+Added Pin To Net: NetName=NetSB23_1 Pin=VD23-1
+Added Net: Name=NetSB23_1
+Added Pin To Net: NetName=NetSB24_1 Pin=SB24-1
+Added Pin To Net: NetName=NetSB24_1 Pin=SB24-1
+Added Pin To Net: NetName=NetSB24_1 Pin=VD24-1
+Added Net: Name=NetSB24_1
+Added Pin To Net: NetName=NetSB25_1 Pin=SB25-1
+Added Pin To Net: NetName=NetSB25_1 Pin=SB25-1
+Added Pin To Net: NetName=NetSB25_1 Pin=VD25-1
+Added Net: Name=NetSB25_1
+Added Pin To Net: NetName=NetSB26_1 Pin=SB26-1
+Added Pin To Net: NetName=NetSB26_1 Pin=SB26-1
+Added Pin To Net: NetName=NetSB26_1 Pin=VD26-1
+Added Net: Name=NetSB26_1
+Added Pin To Net: NetName=NetSB27_1 Pin=SB27-1
+Added Pin To Net: NetName=NetSB27_1 Pin=SB27-1
+Added Pin To Net: NetName=NetSB27_1 Pin=VD27-1
+Added Net: Name=NetSB27_1
+Added Pin To Net: NetName=NetSB28_1 Pin=SB28-1
+Added Pin To Net: NetName=NetSB28_1 Pin=SB28-1
+Added Pin To Net: NetName=NetSB28_1 Pin=VD28-1
+Added Net: Name=NetSB28_1
+Added Pin To Net: NetName=NetSB29_1 Pin=SB29-1
+Added Pin To Net: NetName=NetSB29_1 Pin=SB29-1
+Added Pin To Net: NetName=NetSB29_1 Pin=VD29-1
+Added Net: Name=NetSB29_1
+Added Pin To Net: NetName=NetSB30_1 Pin=SB30-1
+Added Pin To Net: NetName=NetSB30_1 Pin=SB30-1
+Added Pin To Net: NetName=NetSB30_1 Pin=VD30-1
+Added Net: Name=NetSB30_1
+Added Pin To Net: NetName=NetSB31_1 Pin=SB31-1
+Added Pin To Net: NetName=NetSB31_1 Pin=SB31-1
+Added Pin To Net: NetName=NetSB31_1 Pin=VD31-1
+Added Net: Name=NetSB31_1
+Added Pin To Net: NetName=NetSB32_1 Pin=SB32-1
+Added Pin To Net: NetName=NetSB32_1 Pin=SB32-1
+Added Pin To Net: NetName=NetSB32_1 Pin=VD32-1
+Added Net: Name=NetSB32_1
+Added Pin To Net: NetName=SPEAKER_L Pin=C2-2
+Added Pin To Net: NetName=SPEAKER_L Pin=C37-1
+Added Net: Name=SPEAKER_L
+Added Pin To Net: NetName=SPEAKER_R Pin=C4-2
+Added Pin To Net: NetName=SPEAKER_R Pin=C37-1
+Added Net: Name=SPEAKER_R
+Added Member To Class: ClassName=DrumPad Member=Component C2 T495D477K006ATE100
+Added Member To Class: ClassName=DrumPad Member=Component C4 T495D477K006ATE100
+Added Member To Class: ClassName=DrumPad Member=Component C5 TR3C107K010C0100
+Added Member To Class: ClassName=DrumPad Member=Component C6 TR3C107K010C0100
+Added Member To Class: ClassName=DrumPad Member=Component C7 CC1210KRX5R5BB476
+Added Member To Class: ClassName=DrumPad Member=Component C8 CC0603KRX7R8BB103
+Added Member To Class: ClassName=DrumPad Member=Component C10 CC0603KRX7R8BB103
+Added Member To Class: ClassName=DrumPad Member=Component C29 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C29 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C31 GRM188R61C105KA93
+Added Member To Class: ClassName=DrumPad Member=Component C37 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C37 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C37 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C46 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C48 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component DA1 AD5243BRMZ10
+Added Member To Class: ClassName=DrumPad Member=Component DA2 TDA2822M
+Added Member To Class: ClassName=DrumPad Member=Component DA4 MAX1555EZK
+Added Member To Class: ClassName=DrumPad Member=Component R1 RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R2 RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R3 RC0402JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R4 RC0603FR-074R7L
+Added Member To Class: ClassName=DrumPad Member=Component R5 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R5 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R5 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R5 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R6 RC0603FR-074R7L
+Added Member To Class: ClassName=DrumPad Member=Component R7 RC0603JR-07100KL
+Added Member To Class: ClassName=DrumPad Member=Component R8 RC0603JR-07560KL
+Added Member To Class: ClassName=DrumPad Member=Component R9 RC0603JR-07100KL
+Added Member To Class: ClassName=DrumPad Member=Component R10 RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R12 RC0603JR-07100KL
+Added Member To Class: ClassName=DrumPad Member=Component R13 RC0603FR-07180KL
+Added Member To Class: ClassName=DrumPad Member=Component R39 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R40 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R43 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R43 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R43 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R43 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component SB1 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB2 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB3 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB4 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB5 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB6 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB7 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB8 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB9 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB10 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB11 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB12 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB13 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB14 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB15 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB16 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB17 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB18 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB19 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB20 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB21 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB22 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB23 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB24 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB25 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB26 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB27 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB29 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB30 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB31 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB32 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB33 TL1015AF160QG
+Added Member To Class: ClassName=DrumPad Member=Component VD1 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD2 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD3 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD4 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD5 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD6 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD7 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD8 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD9 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD10 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD11 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD12 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD13 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD14 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD15 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD17 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD18 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD19 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD20 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD21 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD22 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD23 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD24 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD25 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD26 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD27 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD28 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD29 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD30 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD31 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD32 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD33 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD34 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD35 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD36 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD37 BAT54

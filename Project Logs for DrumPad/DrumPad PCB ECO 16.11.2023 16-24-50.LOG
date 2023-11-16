@@ -1,0 +1,242 @@
+Removed Pin From Net: NetName=NetBR1_A1 Pin=VD33-1
+Removed Pin From Net: NetName=ENC_A Pin=VD33-3
+Removed Pin From Net: NetName=NetBR1_B1 Pin=VD34-1
+Removed Pin From Net: NetName=ENC_B Pin=VD34-3
+Removed Pin From Net: NetName=NetBR1_2 Pin=VD35-1
+Removed Pin From Net: NetName=ENC_PUSHBUT Pin=VD35-3
+Removed Member From Class: ClassName=DrumPad Member=VD?
+Change Component DesignItemId : Designator=VD33 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD34 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component DesignItemId : Designator=VD35 Old DesignItemId=BAT54 New DesignItemId=BAS516
+Change Component Footprint: Designator=VD33 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD34 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Footprint: Designator=VD35 Old Footprint=SOT-23 New Footprint=SOD-523
+Change Component Comment : Designator=VD33 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD34 Old Comment=BAT54 New Comment=BAS516
+Change Component Comment : Designator=VD35 Old Comment=BAT54 New Comment=BAS516
+Change Component Designator: OldDesignator=C1 NewDesignator=C7
+Change Component Designator: OldDesignator=C2 NewDesignator=C11
+Change Component Designator: OldDesignator=C3 NewDesignator=C27
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C9
+Change Component Designator: OldDesignator=C7 NewDesignator=C10
+Change Component Designator: OldDesignator=C8 NewDesignator=C12
+Change Component Designator: OldDesignator=C9 NewDesignator=C13
+Change Component Designator: OldDesignator=C10 NewDesignator=C14
+Change Component Designator: OldDesignator=C11 NewDesignator=C15
+Change Component Designator: OldDesignator=C12 NewDesignator=C17
+Change Component Designator: OldDesignator=C13 NewDesignator=C18
+Change Component Designator: OldDesignator=C14 NewDesignator=C28
+Change Component Designator: OldDesignator=C15 NewDesignator=C29
+Change Component Designator: OldDesignator=C16 NewDesignator=C30
+Change Component Designator: OldDesignator=C17 NewDesignator=C5
+Change Component Designator: OldDesignator=C18 NewDesignator=C8
+Change Component Designator: OldDesignator=C19 NewDesignator=C20
+Change Component Designator: OldDesignator=C20 NewDesignator=C24
+Change Component Designator: OldDesignator=C21 NewDesignator=C25
+Change Component Designator: OldDesignator=C22 NewDesignator=C26
+Change Component Designator: OldDesignator=C23 NewDesignator=C1
+Change Component Designator: OldDesignator=C24 NewDesignator=C16
+Change Component Designator: OldDesignator=C25 NewDesignator=C19
+Change Component Designator: OldDesignator=C26 NewDesignator=C2
+Change Component Designator: OldDesignator=C27 NewDesignator=C3
+Change Component Designator: OldDesignator=C28 NewDesignator=C21
+Change Component Designator: OldDesignator=C29 NewDesignator=C22
+Change Component Designator: OldDesignator=C30 NewDesignator=C23
+Change Component Designator: OldDesignator=DA1 NewDesignator=DA3
+Change Component Designator: OldDesignator=DA2 NewDesignator=DA4
+Change Component Designator: OldDesignator=DA3 NewDesignator=DA2
+Change Component Designator: OldDesignator=DA4 NewDesignator=DA1
+Change Component Designator: OldDesignator=R1 NewDesignator=R12
+Change Component Designator: OldDesignator=R2 NewDesignator=R13
+Change Component Designator: OldDesignator=R3 NewDesignator=R14
+Change Component Designator: OldDesignator=R4 NewDesignator=R15
+Change Component Designator: OldDesignator=R5 NewDesignator=R18
+Change Component Designator: OldDesignator=R6 NewDesignator=R19
+Change Component Designator: OldDesignator=R7 NewDesignator=R20
+Change Component Designator: OldDesignator=R8 NewDesignator=R21
+Change Component Designator: OldDesignator=R9 NewDesignator=R28
+Change Component Designator: OldDesignator=R10 NewDesignator=R29
+Change Component Designator: OldDesignator=R11 NewDesignator=R1
+Change Component Designator: OldDesignator=R12 NewDesignator=R2
+Change Component Designator: OldDesignator=R13 NewDesignator=R3
+Change Component Designator: OldDesignator=R14 NewDesignator=R4
+Change Component Designator: OldDesignator=R15 NewDesignator=R5
+Change Component Designator: OldDesignator=R16 NewDesignator=R25
+Change Component Designator: OldDesignator=R17 NewDesignator=R26
+Change Component Designator: OldDesignator=R18 NewDesignator=R27
+Change Component Designator: OldDesignator=R19 NewDesignator=R22
+Change Component Designator: OldDesignator=R20 NewDesignator=R11
+Change Component Designator: OldDesignator=R21 NewDesignator=R23
+Change Component Designator: OldDesignator=R22 NewDesignator=R16
+Change Component Designator: OldDesignator=R23 NewDesignator=R6
+Change Component Designator: OldDesignator=R24 NewDesignator=R8
+Change Component Designator: OldDesignator=R25 NewDesignator=R10
+Change Component Designator: OldDesignator=R26 NewDesignator=R24
+Change Component Designator: OldDesignator=R27 NewDesignator=R7
+Change Component Designator: OldDesignator=R28 NewDesignator=R9
+Change Component Designator: OldDesignator=R29 NewDesignator=R17
+Change Component Designator: OldDesignator=SB1 NewDesignator=SB2
+Change Component Designator: OldDesignator=SB2 NewDesignator=SB6
+Change Component Designator: OldDesignator=SB3 NewDesignator=SB10
+Change Component Designator: OldDesignator=SB4 NewDesignator=SB14
+Change Component Designator: OldDesignator=SB5 NewDesignator=SB18
+Change Component Designator: OldDesignator=SB6 NewDesignator=SB22
+Change Component Designator: OldDesignator=SB7 NewDesignator=SB26
+Change Component Designator: OldDesignator=SB8 NewDesignator=SB30
+Change Component Designator: OldDesignator=SB9 NewDesignator=SB3
+Change Component Designator: OldDesignator=SB10 NewDesignator=SB7
+Change Component Designator: OldDesignator=SB12 NewDesignator=SB15
+Change Component Designator: OldDesignator=SB13 NewDesignator=SB19
+Change Component Designator: OldDesignator=SB14 NewDesignator=SB23
+Change Component Designator: OldDesignator=SB15 NewDesignator=SB27
+Change Component Designator: OldDesignator=SB16 NewDesignator=SB31
+Change Component Designator: OldDesignator=SB17 NewDesignator=SB4
+Change Component Designator: OldDesignator=SB18 NewDesignator=SB8
+Change Component Designator: OldDesignator=SB19 NewDesignator=SB12
+Change Component Designator: OldDesignator=SB20 NewDesignator=SB16
+Change Component Designator: OldDesignator=SB21 NewDesignator=SB20
+Change Component Designator: OldDesignator=SB22 NewDesignator=SB24
+Change Component Designator: OldDesignator=SB23 NewDesignator=SB28
+Change Component Designator: OldDesignator=SB24 NewDesignator=SB32
+Change Component Designator: OldDesignator=SB25 NewDesignator=SB5
+Change Component Designator: OldDesignator=SB26 NewDesignator=SB9
+Change Component Designator: OldDesignator=SB27 NewDesignator=SB13
+Change Component Designator: OldDesignator=SB28 NewDesignator=SB17
+Change Component Designator: OldDesignator=SB29 NewDesignator=SB21
+Change Component Designator: OldDesignator=SB30 NewDesignator=SB25
+Change Component Designator: OldDesignator=SB31 NewDesignator=SB29
+Change Component Designator: OldDesignator=SB32 NewDesignator=SB33
+Change Component Designator: OldDesignator=SB33 NewDesignator=SB1
+Change Component Designator: OldDesignator=VD1 NewDesignator=VD3
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD7
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD11
+Change Component Designator: OldDesignator=VD4 NewDesignator=VD15
+Change Component Designator: OldDesignator=VD5 NewDesignator=VD22
+Change Component Designator: OldDesignator=VD6 NewDesignator=VD26
+Change Component Designator: OldDesignator=VD7 NewDesignator=VD30
+Change Component Designator: OldDesignator=VD8 NewDesignator=VD34
+Change Component Designator: OldDesignator=VD9 NewDesignator=VD4
+Change Component Designator: OldDesignator=VD10 NewDesignator=VD8
+Change Component Designator: OldDesignator=VD11 NewDesignator=VD12
+Change Component Designator: OldDesignator=VD12 NewDesignator=VD16
+Change Component Designator: OldDesignator=VD13 NewDesignator=VD23
+Change Component Designator: OldDesignator=VD14 NewDesignator=VD27
+Change Component Designator: OldDesignator=VD15 NewDesignator=VD31
+Change Component Designator: OldDesignator=VD16 NewDesignator=VD35
+Change Component Designator: OldDesignator=VD17 NewDesignator=VD5
+Change Component Designator: OldDesignator=VD18 NewDesignator=VD9
+Change Component Designator: OldDesignator=VD19 NewDesignator=VD13
+Change Component Designator: OldDesignator=VD20 NewDesignator=VD17
+Change Component Designator: OldDesignator=VD21 NewDesignator=VD24
+Change Component Designator: OldDesignator=VD22 NewDesignator=VD28
+Change Component Designator: OldDesignator=VD23 NewDesignator=VD32
+Change Component Designator: OldDesignator=VD24 NewDesignator=VD36
+Change Component Designator: OldDesignator=VD25 NewDesignator=VD6
+Change Component Designator: OldDesignator=VD26 NewDesignator=VD10
+Change Component Designator: OldDesignator=VD27 NewDesignator=VD14
+Change Component Designator: OldDesignator=VD28 NewDesignator=VD18
+Change Component Designator: OldDesignator=VD29 NewDesignator=VD25
+Change Component Designator: OldDesignator=VD30 NewDesignator=VD29
+Change Component Designator: OldDesignator=VD31 NewDesignator=VD33
+Change Component Designator: OldDesignator=VD32 NewDesignator=VD37
+Change Component Designator: OldDesignator=VD33 NewDesignator=VD19
+Change Component Designator: OldDesignator=VD34 NewDesignator=VD20
+Change Component Designator: OldDesignator=VD35 NewDesignator=VD21
+Change Component Designator: OldDesignator=VD36 NewDesignator=VD1
+Change Component Designator: OldDesignator=VD37 NewDesignator=VD2
+Change Component Designator: OldDesignator=VT1 NewDesignator=VT2
+Change Component Designator: OldDesignator=VT2 NewDesignator=VT1
+Change Component Description : Designator=VD19 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD20 Old Description=Schottky Diode New Description=High-speed switching diode
+Change Component Description : Designator=VD21 Old Description=Schottky Diode New Description=High-speed switching diode
+Change component parameters: Designator = "VD33" ("VD33"); Footprint = "SOT-23"; UniqueID = "\RQDHIMLR" ("\RQDHIMLR")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 Â"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 ìÀ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 À"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 ìÀ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 Â"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 ìÂò"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 íñ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Äèîä èìïóëüñíûé"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD34" ("VD34"); Footprint = "SOT-23"; UniqueID = "\PMBGQBYV" ("\PMBGQBYV")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 Â"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 ìÀ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 À"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 ìÀ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 Â"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 ìÂò"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 íñ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Äèîä èìïóëüñíûé"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD35" ("VD35"); Footprint = "SOT-23"; UniqueID = "\TNJACWQL" ("\TNJACWQL")
+Change component parameters (AddParameter): Name = "Forward voltage"; Value = "1 Â"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max forward average current"; Value = "250 ìÀ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max non-repetitive peak forward current"; Value = "1 À"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max repetitive peak forward current"; Value = "500 ìÀ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max reverse voltage"; Value = "100 Â"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "500 ìÂò"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse recovery time"; Value = "4 íñ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-65 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Äèîä èìïóëüñíûé"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBR1_A1 Pin=VD19-A
+Added Pin To Net: NetName=ENC_A Pin=VD19-C
+Added Pin To Net: NetName=NetBR1_B1 Pin=VD20-A
+Added Pin To Net: NetName=ENC_B Pin=VD20-C
+Added Pin To Net: NetName=NetBR1_2 Pin=VD21-A
+Added Pin To Net: NetName=ENC_PUSHBUT Pin=VD21-C
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC27_1
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC28_1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC29_2
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC30_2
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC18_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC20_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC25_1
+Change Net Name : Old Net Name=NetC24_1 New Net Name=NetC16_1
+Change Net Name : Old Net Name=NetDA1_3 New Net Name=NetDA3_3
+Change Net Name : Old Net Name=NetDA1_10 New Net Name=NetDA3_10
+Change Net Name : Old Net Name=NetDA3_1 New Net Name=NetDA2_1
+Change Net Name : Old Net Name=NetDA3_3 New Net Name=NetDA2_3
+Change Net Name : Old Net Name=NetDA3_11 New Net Name=NetDA2_11
+Change Net Name : Old Net Name=NetDA4_3 New Net Name=NetDA1_3
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR24_2 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR25_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetSB1_1 New Net Name=NetSB2_1
+Change Net Name : Old Net Name=NetSB2_1 New Net Name=NetSB6_1
+Change Net Name : Old Net Name=NetSB3_1 New Net Name=NetSB10_1
+Change Net Name : Old Net Name=NetSB4_1 New Net Name=NetSB14_1
+Change Net Name : Old Net Name=NetSB5_1 New Net Name=NetSB18_1
+Change Net Name : Old Net Name=NetSB6_1 New Net Name=NetSB22_1
+Change Net Name : Old Net Name=NetSB7_1 New Net Name=NetSB26_1
+Change Net Name : Old Net Name=NetSB8_1 New Net Name=NetSB30_1
+Change Net Name : Old Net Name=NetSB9_1 New Net Name=NetSB3_1
+Change Net Name : Old Net Name=NetSB10_1 New Net Name=NetSB7_1
+Change Net Name : Old Net Name=NetSB12_1 New Net Name=NetSB15_1
+Change Net Name : Old Net Name=NetSB13_1 New Net Name=NetSB19_1
+Change Net Name : Old Net Name=NetSB14_1 New Net Name=NetSB23_1
+Change Net Name : Old Net Name=NetSB15_1 New Net Name=NetSB27_1
+Change Net Name : Old Net Name=NetSB16_1 New Net Name=NetSB31_1
+Change Net Name : Old Net Name=NetSB17_1 New Net Name=NetSB4_1
+Change Net Name : Old Net Name=NetSB18_1 New Net Name=NetSB8_1
+Change Net Name : Old Net Name=NetSB19_1 New Net Name=NetSB12_1
+Change Net Name : Old Net Name=NetSB20_1 New Net Name=NetSB16_1
+Change Net Name : Old Net Name=NetSB21_1 New Net Name=NetSB20_1
+Change Net Name : Old Net Name=NetSB22_1 New Net Name=NetSB24_1
+Change Net Name : Old Net Name=NetSB23_1 New Net Name=NetSB28_1
+Change Net Name : Old Net Name=NetSB24_1 New Net Name=NetSB32_1
+Change Net Name : Old Net Name=NetSB25_1 New Net Name=NetSB5_1
+Change Net Name : Old Net Name=NetSB26_1 New Net Name=NetSB9_1
+Change Net Name : Old Net Name=NetSB27_1 New Net Name=NetSB13_1
+Change Net Name : Old Net Name=NetSB28_1 New Net Name=NetSB17_1
+Change Net Name : Old Net Name=NetSB29_1 New Net Name=NetSB21_1
+Change Net Name : Old Net Name=NetSB30_1 New Net Name=NetSB25_1
+Change Net Name : Old Net Name=NetSB31_1 New Net Name=NetSB29_1
+Change Net Name : Old Net Name=NetSB32_1 New Net Name=NetSB33_1
