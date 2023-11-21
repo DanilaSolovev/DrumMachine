@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=XS2 Old DesignItemId=5009010801 New DesignItemId=DM3CS-SF
+Change Component Footprint: Designator=XS2 Old Footprint=MOLEX 5009010801 New Footprint=DM3CSSF
+Change Component Comment : Designator=XS2 Old Comment=5009010801 New Comment=DM3CS-SF
+Added Pin To Net: NetName=SD_DET Pin=XS2-9
+Added Net: Name=SD_DET

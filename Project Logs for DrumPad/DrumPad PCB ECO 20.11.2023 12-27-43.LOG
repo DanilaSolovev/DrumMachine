@@ -1,0 +1,10 @@
+Added Component: Designator=XP?(KYCON_STX-3500-4N)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPEAKER_L Pin=C28-2
+Added Pin To Net: NetName=SPEAKER_L Pin=C30-1
+Added Pin To Net: NetName=GND Pin=XP?-1
+Added Pin To Net: NetName=SPEAKER_L Pin=XP?-2
+Added Pin To Net: NetName=SPEAKER_L Pin=XP?-3
+Added Pin To Net: NetName=NetB?_1 Pin=XP?-4
+Added Net: Name=NetB?_1
+Added Member To Class: ClassName=DrumPad Member=Component XP? STX-3500-4N

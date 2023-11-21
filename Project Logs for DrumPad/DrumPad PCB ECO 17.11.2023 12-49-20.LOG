@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=NetC16_1 Pin=VT2-D
+Removed Pin From Net: NetName=NetC16_1 Pin=VT2-D
+Removed Pin From Net: NetName=NetC16_1 Pin=VT2-D
+Removed Pin From Net: NetName=NetC16_1 Pin=VT2-D
+Removed Pin From Net: NetName=NetR11_1 Pin=VT2-G
+Removed Pin From Net: NetName=BAT+ Pin=VT2-S
+Removed Pin From Net: NetName=BAT+ Pin=VT2-S
+Removed Pin From Net: NetName=BAT+ Pin=VT2-S
+Change Component DesignItemId : Designator=VT2 Old DesignItemId=Si7415DN New DesignItemId=AO3401
+Change Component Footprint: Designator=VT2 Old Footprint=PowerPAK-1212-8 New Footprint=SOT-23
+Change Component Comment : Designator=VT2 Old Comment=Si7415DN New Comment=AO3401
+Change Component Description : Designator=VT2 Old Description=P-Channel Enhancement Mode Field Effect Transistor New Description=Транзистор полевой P-канальный
+Change component parameters: Designator = "VT2" ("VT2"); Footprint = "PowerPAK-1212-8"; UniqueID = "\HRZFPYRN" ("\HRZFPYRN")
+Change component parameters (AddParameter): Name = "Drain-to-source breakdown voltage"; Value = "30 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fall time"; Value = "9 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward transconductance"; Value = "17 А/В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate threshold voltage"; Value = "1,3 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Hottech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max continuous drain current"; Value = "4.2 А"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max gate-to-source voltage"; Value = "12 В"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max pulsed drain current"; Value = "27"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power dissitipation"; Value = "1.4 Вт"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds"; Value = "50 мОм"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rise time"; Value = "3.5 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Structure"; Value = "Индуцированный канал p-типа"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature range"; Value = "-55 ... 150 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Total gate charge"; Value = "7 нКл"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-off delay time"; Value = "41 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-on delay time"; Value = "6.5 нс"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Транзистор полевой с изолированным затвором"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR11_1 Pin=VT2-1
+Added Pin To Net: NetName=BAT+ Pin=VT2-2
+Added Pin To Net: NetName=NetC16_1 Pin=VT2-3
+Added Member To Class: ClassName=DrumPad Member=Component C9 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C10 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C11 GRM1885C1H100JA01
+Added Member To Class: ClassName=DrumPad Member=Component C12 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C13 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C14 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C17 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C18 CC0603KRX5R5BB475
+Added Member To Class: ClassName=DrumPad Member=Component C20 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C21 CC0603KRX7R8BB103
+Added Member To Class: ClassName=DrumPad Member=Component C24 TR3C107K010C0100
+Added Member To Class: ClassName=DrumPad Member=Component C26 GRM188R61C105KA93
+Added Member To Class: ClassName=DrumPad Member=Component C27 T495D477K006ATE100
+Added Member To Class: ClassName=DrumPad Member=Component C29 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component C30 CC0603KRX7R9BB104
+Added Member To Class: ClassName=DrumPad Member=Component DA3 AD5243BRMZ10
+Added Member To Class: ClassName=DrumPad Member=Component R1 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R7 RC0603JR-07100KL
+Added Member To Class: ClassName=DrumPad Member=Component R12 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R14 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R15 RC0603JR-07330RL
+Added Member To Class: ClassName=DrumPad Member=Component R17 RC0603FR-07180KL
+Added Member To Class: ClassName=DrumPad Member=Component R19 RC0603FR-074K7L
+Added Member To Class: ClassName=DrumPad Member=Component R20 RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R21 RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R22 RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R23 RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R26 RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R27 RC0603JR-0710KL
+Added Member To Class: ClassName=DrumPad Member=Component R28 RC0603FR-074R7L
+Added Member To Class: ClassName=DrumPad Member=Component R29 RC0603FR-074R7L
+Added Member To Class: ClassName=DrumPad Member=Component SB6 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB9 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB10 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB14 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB15 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB16 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB17 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB18 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB19 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB21 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB22 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB24 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB25 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB26 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB28 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB32 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component SB33 Led_button
+Added Member To Class: ClassName=DrumPad Member=Component VD2 BAT54
+Added Member To Class: ClassName=DrumPad Member=Component VD6 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD10 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD11 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD13 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD15 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD16 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD19 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD20 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD21 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD22 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD24 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD27 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD28 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD30 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD31 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD32 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD36 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VD37 BAS516
+Added Member To Class: ClassName=DrumPad Member=Component VT1 BC817-40
